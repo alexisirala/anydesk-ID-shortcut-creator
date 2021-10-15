@@ -1,0 +1,3229 @@
+REGEDIT4
+
+[-HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0]
+
+[HKEY_CURRENT_USER\Software]
+
+[HKEY_CURRENT_USER\Software\Altap]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Alternative Viewers]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Alternative Viewers\1]
+"Masks"="*.*"
+"Type"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Colors]
+"Color Scheme"=dword:00000000
+"Focus Active Normal"=dword:01000000
+"Focus Active Selected"=dword:01000000
+"Focus Inactive Normal"=dword:00808080
+"Focus Inactive Selected"=dword:00808080
+"Focus Bk Inactive Normal"=dword:01ffffff
+"Focus Bk Inactive Selected"=dword:01ffffff
+"Item Fg Normal"=dword:01000000
+"Item Fg Selected"=dword:000000ff
+"Item Fg Focused"=dword:01000000
+"Item Fg Focused and Selected"=dword:000000ff
+"Item Fg Highlight"=dword:01000000
+"Item Bk Normal"=dword:01ffffff
+"Item Bk Selected"=dword:01ffffff
+"Item Bk Focused"=dword:00e8e8e8
+"Item Bk Focused and Selected"=dword:00e8e8e8
+"Item Bk Highlight"=dword:01000000
+"Icon Blend Selected"=dword:018080ff
+"Icon Blend Focused"=dword:00808080
+"Icon Blend Focused and Selected"=dword:000000ff
+"Progress Fg Normal"=dword:01c00000
+"Progress Fg Selected"=dword:01ffffff
+"Progress Bk Normal"=dword:01ffffff
+"Progress Bk Selected"=dword:01c00000
+"Hot Panel"=dword:01ff0000
+"Hot Active"=dword:01808080
+"Hot Inactive"=dword:01808080
+"Active Caption Fg"=dword:01ffffff
+"Active Caption Bk"=dword:01800000
+"Inactive Caption Fg"=dword:01ffffff
+"Inactive Caption Bk"=dword:01808080
+"Thumbnail Frame Normal"=dword:00c0c0c0
+"Thumbnail Frame Selected"=dword:000000ff
+"Thumbnail Frame Focused"=dword:00000000
+"Thumbnail Frame Focused and Selected"=dword:00000080
+"Viewer Fg Normal"=dword:01000000
+"Viewer Bk Normal"=dword:01ffffff
+"Viewer Fg Selected"=dword:01ffffff
+"Viewer Bk Selected"=dword:01000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Colors\Panel Items Hilighting]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Colors\Panel Items Hilighting\1]
+"Masks"="*.*"
+"Attributes"=dword:00000800
+"Valid Attributes"=dword:00000800
+"Item Fg Normal"=dword:00ff0000
+"Item Fg Selected"=dword:010000ff
+"Item Fg Focused"=dword:00ff0000
+"Item Fg Focused and Selected"=dword:010000ff
+"Item Fg Highlight"=dword:01ff0000
+"Item Bk Normal"=dword:01ffffff
+"Item Bk Selected"=dword:01ffffff
+"Item Bk Focused"=dword:01e8e8e8
+"Item Bk Focused and Selected"=dword:01e8e8e8
+"Item Bk Highlight"=dword:01e9e9e9
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Colors\Panel Items Hilighting\2]
+"Masks"="*.*"
+"Attributes"=dword:00004000
+"Valid Attributes"=dword:00004000
+"Item Fg Normal"=dword:000d8f13
+"Item Fg Selected"=dword:010000ff
+"Item Fg Focused"=dword:000d8f13
+"Item Fg Focused and Selected"=dword:010000ff
+"Item Fg Highlight"=dword:010d8f13
+"Item Bk Normal"=dword:01ffffff
+"Item Bk Selected"=dword:01ffffff
+"Item Bk Focused"=dword:01e8e8e8
+"Item Bk Focused and Selected"=dword:01e8e8e8
+"Item Bk Highlight"=dword:01e9e9e9
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration]
+"Menu Index"=dword:00000000
+"Menu Break"=dword:00000001
+"Menu Width"=dword:00000001
+"ToolBar Index"=dword:00000001
+"ToolBar Break"=dword:00000001
+"ToolBar Width"=dword:00000001
+"PluginsBar Index"=dword:00000002
+"PluginsBar Break"=dword:00000001
+"PluginsBar Width"=dword:00000001
+"User Menu Index"=dword:00000003
+"User Menu Break"=dword:00000001
+"User Menu Width"=dword:00000001
+"User Menu Labels"=dword:00000000
+"Hot Paths Index"=dword:00000004
+"Hot Paths Break"=dword:00000001
+"Hot Paths Width"=dword:00000001
+"Drive Bar Index"=dword:00000001
+"Drive Bar Break"=dword:00000001
+"Drive Bar Width"=dword:00000001
+"Grips Visible"=dword:00000001
+"File Name Format"=dword:00000004
+"Size Format"=dword:00000000
+"Select/Deselect Directories"=dword:00000000
+"Copy Find Text"=dword:00000001
+"Clear Readonly Attribute"=dword:00000001
+"Primary Context Menu"=dword:00000001
+"Hide Hidden and System Files and Directories"=dword:00000000
+"Use Recycle Bin"=dword:00000001
+"Use Recycle Bin For"="*.txt;*.doc"
+"Save Configuration On Exit"=dword:00000001
+"Show Errors In Find Files"=dword:00000000
+"Show Full Row In Find Files"=dword:00000000
+"Use Speeker Beep"=dword:00000001
+"Close Shell Window"=dword:00000000
+"Right Panel Focused"=dword:00000001
+"Always On Top"=dword:00000000
+"Sort Uses Locale"=dword:00000001
+"Sort Detects Numbers"=dword:00000001
+"Sort Newer On Top"=dword:00000000
+"Sort Dirs By Name"=dword:00000000
+"Sort Dirs By Ext"=dword:00000000
+"Save History"=dword:00000001
+"Save Working Dirs"=dword:00000000
+"Enable CmdLine History"=dword:00000001
+"Save CmdLine History"=dword:00000001
+"Only One Instance"=dword:00000000
+"Status Area"=dword:00000001
+"Full Row Select"=dword:00000000
+"Full Row Highlight"=dword:00000001
+"Use Icon Tincture"=dword:00000001
+"Show Panel Caption"=dword:00000001
+"Show Panel Zoom"=dword:00000001
+"Single Click"=dword:00000000
+"Information Line Content"="$(FileAttributes)"
+"If Path Is Inaccessible Go To My Docs"=dword:00000001
+"If Path Is Inaccessible Go To"=""
+"Auto Configurate Hot Paths"=dword:00000001
+"Speed Limit"=dword:00100000
+"Quick Search Enter Alt"=dword:00000000
+"Change Drive Show My Documents"=dword:00000001
+"Change Drive Show Cloud Storages"=dword:00000001
+"Change Drive Show Another"=dword:00000001
+"Change Drive Network"=dword:00000001
+"Search File Content"=dword:00000000
+"Plugins.ver Version (x64)"=dword:00000000
+"Plugins.ver Version (x86)"=dword:00000000
+"Use salopen.exe"=dword:00000000
+"Netware Fast Dir Move"=dword:00000000
+"Async Copy Alg On Network"=dword:00000001
+"Reload Environment Variables"=dword:00000001
+"Quick Rename Select All"=dword:00000000
+"Edit New File Select All"=dword:00000001
+"Use Shift For GoTo HotPath"=dword:00000001
+"Language"="spanish.slg"
+"Use Alternate Language for Plugins"=dword:00000000
+"Alternate Language for Plugins"=""
+"Language Changed"=dword:00000000
+"Show Splash Screen"=dword:00000000
+"Conversion Table"="westeuro"
+"Skill Level"=dword:00000002
+"Title bar show path"=dword:00000001
+"Title bar mode"=dword:00000000
+"Title bar prefix"=dword:00000000
+"Title bar prefix text"="ADMIN"
+"Main window icon index"=dword:00000002
+"Click to Quick Rename"=dword:00000001
+"Visible Drives"=dword:03ffffff
+"Separated Drives"=dword:00000000
+"Compare By Time"=dword:00000001
+"Compare By Size"=dword:00000001
+"Compare By Content"=dword:00000000
+"Compare By Attr"=dword:00000000
+"Compare By Subdirs"=dword:00000000
+"Compare By Subdirs Attr"=dword:00000000
+"Compare One Panel Dirs"=dword:00000000
+"Compare More Options"=dword:00000000
+"Compare Ignore Files"=dword:00000000
+"Compare Ignore Dirs"=dword:00000000
+"Compare Ignore Files Masks"=""
+"Compare Ignore Dirs Masks"=""
+"Thumbnail Size"=dword:0000005e
+"Keep Plugins Sorted"=dword:00000001
+"Show Translation Is Incomplete"=dword:00000001
+"Enable Custom Icon Overlays"=dword:00000001
+"Disabled Custom Icon Overlays"=""
+"Edit New File Use Default"=dword:00000000
+"Edit New File Default"=""
+"Top ToolBar"="11,14,15,70,-1,40,56,-1,30,31,32,-1,41,42,18,27,55,33,-1,3,34,35,20,19,-1,43,46,49"
+"Middle ToolBar"="2,3,17,21,22,23,72,26,24,25,27,55,28,29,30,31,32,33"
+"Left ToolBar"="36"
+"Right ToolBar"="51"
+"Show Top ToolBar"=dword:00000000
+"Show Plugins Bar"=dword:00000000
+"Show Middle ToolBar"=dword:00000000
+"Show User Menu ToolBar"=dword:00000000
+"Hot Paths Bar"=dword:00000000
+"Show Drive Bar"=dword:00000000
+"Show Drive Bar2"=dword:00000000
+"Show Bottom ToolBar"=dword:00000000
+"Use Time Resolution"=dword:00000001
+"Time Resolution"=dword:00000002
+"Ignore DST Shifts"=dword:00000000
+"Use DragDrop Min Time"=dword:00000001
+"DragDrop Min Time"=dword:000001f4
+"Last Focused Page"=dword:00000005
+"Configuration Height"=dword:0000025e
+"Viewers And Editors Expanded"=dword:00000001
+"Packers And Unpackers Expanded"=dword:00000001
+"Command Line"=dword:00000000
+"Command Line Focused"=dword:00000000
+"Use Custom Panel Font"=dword:00000000
+"Panel Font"="Segoe UI,-15,400,0,1,0,0,0,0"
+"Make File List Name"=""
+"Make File List Append"=dword:00000000
+"Make File List Destination"=dword:00000000
+"Start Trace Server"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\ChangeDir History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Command History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Confirmation]
+"Files or Dirs Del"=dword:00000001
+"Non-empty Dir Del"=dword:00000000
+"File Overwrite"=dword:00000001
+"Directory Overwrite"=dword:00000000
+"SH File Del"=dword:00000001
+"SH Dir Del"=dword:00000000
+"SH File Overwrite"=dword:00000001
+"NTFS Compress and Uncompress"=dword:00000001
+"NTFS Encrypt and Decrypt"=dword:00000001
+"Drag and Drop"=dword:00000000
+"Close Archive"=dword:00000001
+"Close Find"=dword:00000000
+"Stop Find"=dword:00000001
+"Create Target Path"=dword:00000001
+"Always on Top"=dword:00000001
+"Close Salamander"=dword:00000000
+"Send Email"=dword:00000001
+"Add To Archive"=dword:00000001
+"Create Dir"=dword:00000001
+"Change Dir TC"=dword:00000001
+"Show Names To Compare"=dword:00000001
+"DST Shifts Ignored"=dword:00000001
+"DST Shifts Occured"=dword:00000001
+"Copy Move Options Not Supported"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Convert History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Copy History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Copy Move Options]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Create Directory History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Drive Special Settings]
+"Floppy Automatic Refresh"=dword:00000001
+"Floppy Simple Icons"=dword:00000001
+"Removable Automatic Refresh"=dword:00000001
+"Removable Simple Icons"=dword:00000000
+"Fixed Automatic Refresh"=dword:00000001
+"Fixed Simple Icons"=dword:00000000
+"Remote Automatic Refresh"=dword:00000001
+"Remote Simple Icons"=dword:00000000
+"Remote Do Not Refresh on Activation"=dword:00000000
+"CDROM Automatic Refresh"=dword:00000001
+"CDROM Simple Icons"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Edit New History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\File List History]
+"1"="$(FileName)$(CRLF)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Filter History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Find Ignore]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Find Ignore\1]
+"Path"="\\System Volume Information"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Find Ignore\2]
+"Path"="Local Settings\\Temporary Internet Files"
+"Enabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Find Options]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Find Options\1]
+"ItemName"="\"*.*\" en \"C:\\Users\\Eglobalt_PY\\Desktop\\Accesos a cajeros\""
+"AutoLoad"=dword:00000001
+"Named"="*.*"
+"LookIn"="C:\\Users\\Eglobalt_PY\\Desktop\\Accesos a cajeros"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Grep History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Look In History]
+"1"="C:\\Users\\Eglobalt_PY\\Desktop\\Accesos a cajeros"
+"2"="C:\\Users\\alexisirala\\Desktop\\Accesos a cajeros"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Named History]
+"1"="centr"
+"2"="*.*"
+"3"="prefe"
+"4"="todo"
+"5"="god"
+"6"="atm"
+"7"="caa"
+"8"="recep"
+"9"="ruth"
+"10"="villeta"
+"11"="axx"
+"12"="tlc"
+"13"="enex"
+"14"="via fe"
+"15"="chort"
+"16"="chot"
+"17"="farma "
+"18"="caac"
+"19"="ATM"
+"20"="santa"
+"21"="anaem"
+"22"="amigo"
+"23"="anae"
+"24"="ana"
+"25"="vill"
+"26"="villamo"
+"27"="bah"
+"28"="ferre"
+"29"="BOMBA"
+"30"="oviedo"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Quick Rename History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Select History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Viewer History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Configuration\Working Directories]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Custom Colors]
+"1"=dword:00ffffff
+"2"=dword:00ffffff
+"3"=dword:00ffffff
+"4"=dword:00ffffff
+"5"=dword:00ffffff
+"6"=dword:00ffffff
+"7"=dword:00ffffff
+"8"=dword:00ffffff
+"9"=dword:00ffffff
+"10"=dword:00ffffff
+"11"=dword:00ffffff
+"12"=dword:00ffffff
+"13"=dword:00ffffff
+"14"=dword:00ffffff
+"15"=dword:00ffffff
+"16"=dword:00ffffff
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Default Directories]
+"C"="C:\\Users\\Eglobalt_PY\\Desktop\\Accesos a cajeros"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Editors]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Editors\1]
+"Masks"="*.*"
+"Command"="notepad.exe"
+"Arguments"="\"$(Name)\""
+"Initial Directory"="$(FullPath)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Find Dialog Window]
+"Left"=dword:fffffc66
+"Right"=dword:fffffe6d
+"Top"=dword:00000050
+"Bottom"=dword:0000028d
+"Show"=dword:00000001
+"Name Width"=dword:000001e2
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Hot Paths]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Left Panel]
+"Header Line"=dword:00000001
+"Path"="C:\\Users"
+"View Type"=dword:00000001
+"Sort Type"=dword:00000000
+"Reverse Sort"=dword:00000000
+"Directory Line"=dword:00000001
+"Status Line"=dword:00000001
+"Enable Filter"=dword:00000000
+"Filter"="*.*"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers]
+"Simple Icons In Archives"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\1]
+"Extension List"="zip;pk3;jar"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:ffffffff
+"Unpacker Index"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\10]
+"Extension List"="7z"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:fffffffb
+"Unpacker Index"=dword:fffffffb
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\11]
+"Extension List"="ena"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:fffffff5
+"Unpacker Index"=dword:fffffff5
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\12]
+"Extension List"="cab"
+"Packer Supported"=dword:00000000
+"Packer Index"=dword:ffffffff
+"Unpacker Index"=dword:ffffffea
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\13]
+"Extension List"="ima"
+"Packer Supported"=dword:00000000
+"Packer Index"=dword:ffffffff
+"Unpacker Index"=dword:ffffffe7
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\14]
+"Extension List"="iso;isz;nrg;bin;img;pdi;cdi;cif;ncd;c2d;mdf;dmg"
+"Packer Supported"=dword:00000000
+"Packer Index"=dword:ffffffff
+"Unpacker Index"=dword:ffffffe6
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\15]
+"Extension List"="eml;b64;uue;xxe;hqx;ntx;cnm"
+"Packer Supported"=dword:00000000
+"Packer Index"=dword:ffffffff
+"Unpacker Index"=dword:ffffffe4
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\2]
+"Extension List"="j"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:00000000
+"Unpacker Index"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\3]
+"Extension List"="rar;r##"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:00000001
+"Unpacker Index"=dword:ffffffe3
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\4]
+"Extension List"="arj;a##"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:00000009
+"Unpacker Index"=dword:ffffffeb
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\5]
+"Extension List"="lzh;lha;lzs"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:00000003
+"Unpacker Index"=dword:ffffffe5
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\6]
+"Extension List"="uc2"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:00000004
+"Unpacker Index"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\7]
+"Extension List"="ace;c##"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:0000000a
+"Unpacker Index"=dword:0000000a
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\8]
+"Extension List"="pak"
+"Packer Supported"=dword:00000001
+"Packer Index"=dword:fffffffd
+"Unpacker Index"=dword:fffffffd
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Archive Association\9]
+"Extension List"="tgz;tbz;taz;tar;gz;bz;bz2;z;rpm;cpio;deb"
+"Packer Supported"=dword:00000000
+"Packer Index"=dword:ffffffff
+"Unpacker Index"=dword:fffffffe
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers]
+"Use Another Panel"=dword:00000000
+"Preffered"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\1]
+"Type"=dword:fffffff5
+"Title"="Encriptar (Plugin)"
+"Ext"="ena"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\10]
+"Type"=dword:00000000
+"Title"="ARJ a volúmenes 1.44MB (Externo Win32, probado con v3.00c)"
+"Ext"="arj"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Arj32bitExecutable)"
+"Copy Arguments"="a -pav1440 \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Arj32bitExecutable)"
+"Move Arguments"="m -pav1440 \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\11]
+"Type"=dword:00000000
+"Title"="ACE (Externo Win32, probado con v1.2b)"
+"Ext"="ace"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000001
+"Copy Command"="$(Ace32bitExecutable)"
+"Copy Arguments"="a \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Ace32bitExecutable)"
+"Move Arguments"="m \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\12]
+"Type"=dword:00000000
+"Title"="ACE a volúmenes 1.44MB (Externo Win32, probado con v1.2b)"
+"Ext"="ace"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000001
+"Copy Command"="$(Ace32bitExecutable)"
+"Copy Arguments"="a -v1440 \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Ace32bitExecutable)"
+"Move Arguments"="m -v1440 \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\13]
+"Type"=dword:00000000
+"Title"="ARJ (Externo DOS, probado con v2.60)"
+"Ext"="arj"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Arj16bitExecutable)"
+"Copy Arguments"="a -pa $(ArchiveDOSFullName) !$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Arj16bitExecutable)"
+"Move Arguments"="m -pa $(ArchiveDOSFullName) !$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\14]
+"Type"=dword:00000000
+"Title"="ARJ a volúmenes 1.44MB (Externo DOS, probado con v2.60)"
+"Ext"="arj"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Arj16bitExecutable)"
+"Copy Arguments"="a -pav1440 $(ArchiveDOSFullName) !$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Arj16bitExecutable)"
+"Move Arguments"="m -pav1440 $(ArchiveDOSFullName) !$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\15]
+"Type"=dword:00000000
+"Title"="LHA (Externo DOS, probado con v2.55)"
+"Ext"="lzh"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Lha16bitExecutable)"
+"Copy Arguments"="a -m -p -a -l1 -x1 -c $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Lha16bitExecutable)"
+"Move Arguments"="m -m -p -a -l1 -x1 -c $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\16]
+"Type"=dword:00000000
+"Title"="UC2 (Externo DOS, probado con v2r3PRO)"
+"Ext"="uc2"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(UC216bitExecutable)"
+"Copy Arguments"="A !SYSHID=ON ##\\ $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(UC216bitExecutable)"
+"Move Arguments"="AM !SYSHID=ON ##\\ $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\17]
+"Type"=dword:00000000
+"Title"="ACE (Externo DOS, probado con v1.2b)"
+"Ext"="ace"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Ace16bitExecutable)"
+"Copy Arguments"="a $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Ace16bitExecutable)"
+"Move Arguments"="m $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\18]
+"Type"=dword:00000000
+"Title"="ACE a volúmenes 1.44MB (Externo DOS, probado con v1.2b)"
+"Ext"="ace"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Ace16bitExecutable)"
+"Copy Arguments"="a -v1440 $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Ace16bitExecutable)"
+"Move Arguments"="m -v1440 $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\19]
+"Type"=dword:00000000
+"Title"="JAR (Externo DOS, probado con v1.02)"
+"Ext"="j"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Jar16bitExecutable)"
+"Copy Arguments"="a $(ArchiveDOSFullName) !$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Jar16bitExecutable)"
+"Move Arguments"="m $(ArchiveDOSFullName) !$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\2]
+"Type"=dword:fffffffb
+"Title"="7-Zip (Plugin)"
+"Ext"="7z"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\20]
+"Type"=dword:00000000
+"Title"="JAR a volúmenes 1.44MB (Externo DOS, probado con v1.02)"
+"Ext"="j"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Jar16bitExecutable)"
+"Copy Arguments"="a -v1440 $(ArchiveDOSFullName) !$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Jar16bitExecutable)"
+"Move Arguments"="m -v1440 $(ArchiveDOSFullName) !$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\21]
+"Type"=dword:00000000
+"Title"="RAR (Externo DOS, probado con v2.50)"
+"Ext"="rar"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Rar16bitExecutable)"
+"Copy Arguments"="a $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Rar16bitExecutable)"
+"Move Arguments"="m $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\22]
+"Type"=dword:00000000
+"Title"="RAR a volúmenes 1.44MB (Externo DOS, probado con v2.50)"
+"Ext"="rar"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Rar16bitExecutable)"
+"Copy Arguments"="a -v1440 $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Rar16bitExecutable)"
+"Move Arguments"="m -v1440 $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\23]
+"Type"=dword:00000000
+"Title"="PKZIP (Externo Win32, probado con v2.50)"
+"Ext"="zip"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000001
+"Copy Command"="$(Zip32bitExecutable)"
+"Copy Arguments"="-add -nozipextension -path -attr \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Zip32bitExecutable)"
+"Move Arguments"="-add -nozipextension -move -path -attr \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\24]
+"Type"=dword:00000000
+"Title"="PKZIP (Externo DOS, probado con v2.04g)"
+"Ext"="zip"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Zip16bitExecutable)"
+"Copy Arguments"="-P -whs $(ArchiveDOSFullName) @$(ListDOSFullName)"
+"Support Move"=dword:00000001
+"Move Command"="$(Zip16bitExecutable)"
+"Move Arguments"="-m -P -whs $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\3]
+"Type"=dword:ffffffff
+"Title"="ZIP (Plugin)"
+"Ext"="zip"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\4]
+"Type"=dword:fffffffd
+"Title"="PAK (Plugin)"
+"Ext"="pak"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\5]
+"Type"=dword:00000000
+"Title"="JAR (Externo Win32, probado con v1.02)"
+"Ext"="j"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Jar32bitExecutable)"
+"Copy Arguments"="a \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Jar32bitExecutable)"
+"Move Arguments"="m \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\6]
+"Type"=dword:00000000
+"Title"="JAR a volúmenes 1.44MB (Externo Win32, probado con v1.02)"
+"Ext"="j"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Jar32bitExecutable)"
+"Copy Arguments"="a -v1440 \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Jar32bitExecutable)"
+"Move Arguments"="m -v1440 \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\7]
+"Type"=dword:00000000
+"Title"="RAR (Externo Win32, probado con v2.50)"
+"Ext"="rar"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Rar32bitExecutable)"
+"Copy Arguments"="a -scol \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Rar32bitExecutable)"
+"Move Arguments"="m -scol \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\8]
+"Type"=dword:00000000
+"Title"="RAR a volúmenes 1.44MB (Externo Win32, probado con v2.50)"
+"Ext"="rar"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Rar32bitExecutable)"
+"Copy Arguments"="a -scol -v1440 \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Rar32bitExecutable)"
+"Move Arguments"="m -scol -v1440 \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Packers\9]
+"Type"=dword:00000000
+"Title"="ARJ (Externo Win32, probado con v3.00c)"
+"Ext"="arj"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Copy Command"="$(Arj32bitExecutable)"
+"Copy Arguments"="a -pa \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+"Support Move"=dword:00000001
+"Move Command"="$(Arj32bitExecutable)"
+"Move Arguments"="m -pa \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers]
+"Use Another Panel"=dword:00000000
+"Use Subdir Name By Archive"=dword:00000000
+"Preffered"=dword:0000000a
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\1]
+"Type"=dword:ffffffe3
+"Title"="UnRAR (Plugin)"
+"Ext"="*.rar;*.r##"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\10]
+"Type"=dword:fffffffb
+"Title"="7-Zip (Plugin)"
+"Ext"="*.7z"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\11]
+"Type"=dword:ffffffff
+"Title"="ZIP (Plugin)"
+"Ext"="*.zip;*.pk3;*.jar"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\12]
+"Type"=dword:fffffffd
+"Title"="PAK (Plugin)"
+"Ext"="*.pak"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\13]
+"Type"=dword:fffffffe
+"Title"="TAR (Plugin)"
+"Ext"="*.tar;*.tgz;*.tbz;*.taz;*.tar.gz;*.tar.bz;*.tar.bz2;*.tar.z;*_tar.gz;*_tar.bz;*_tar.bz2;*_tar.z;*_tar_gz;*_tar_bz;*_tar_bz2;*_tar_z;*.tar_gz;*.tar_bz;*.tar_bz2;*.tar_z;*.gz;*.bz;*.bz2;*.z;*.rpm;*.cpio;*.deb"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\14]
+"Type"=dword:00000000
+"Title"="JAR (Externo Win32, probado con v1.02)"
+"Ext"="*.j"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Jar32bitExecutable)"
+"Extract Arguments"="x -jyc \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\15]
+"Type"=dword:00000000
+"Title"="RAR (Externo Win32, probado con v2.50)"
+"Ext"="*.rar"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Rar32bitExecutable)"
+"Extract Arguments"="x -scol \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\16]
+"Type"=dword:00000000
+"Title"="ARJ (Externo Win32, probado con v3.00c)"
+"Ext"="*.arj"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Arj32bitExecutable)"
+"Extract Arguments"="x -va -jyc \"$(ArchiveFullName)\" !\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\17]
+"Type"=dword:00000000
+"Title"="ACE (Externo Win32, probado con v1.2b)"
+"Ext"="*.ace"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000001
+"Extract Command"="$(Ace32bitExecutable)"
+"Extract Arguments"="x \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\18]
+"Type"=dword:00000000
+"Title"="ARJ (Externo DOS, probado con v2.60)"
+"Ext"="*.arj"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Arj16bitExecutable)"
+"Extract Arguments"="x -va -jyc $(ArchiveDOSFullName) !$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\19]
+"Type"=dword:00000000
+"Title"="LHA (Externo DOS, probado con v2.55)"
+"Ext"="*.lzh"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Lha16bitExecutable)"
+"Extract Arguments"="x -a -l1 -c $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\2]
+"Type"=dword:ffffffe4
+"Title"="UnMIME (Plugin)"
+"Ext"="*.eml;*.b64;*.uue;*.xxe;*.hqx;*.ntx;*.cnm"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\20]
+"Type"=dword:00000000
+"Title"="UC2 (Externo DOS, probado con v2r3PRO)"
+"Ext"="*.uc2"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(UC216bitExecutable)"
+"Extract Arguments"="ESF $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\21]
+"Type"=dword:00000000
+"Title"="ACE (Externo DOS, probado con v1.2b)"
+"Ext"="*.ace"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Ace16bitExecutable)"
+"Extract Arguments"="x $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\22]
+"Type"=dword:00000000
+"Title"="JAR (Externo DOS, probado con v1.02)"
+"Ext"="*.j"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Jar16bitExecutable)"
+"Extract Arguments"="x -jyc $(ArchiveDOSFullName) !$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\23]
+"Type"=dword:00000000
+"Title"="RAR (Externo DOS, probado con v2.50)"
+"Ext"="*.rar"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Rar16bitExecutable)"
+"Extract Arguments"="x $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\24]
+"Type"=dword:00000000
+"Title"="PKZIP (Externo Win32, probado con v2.50)"
+"Ext"="*.zip;*.pk3;*.jar"
+"Support Long Names"=dword:00000001
+"Need ANSI List"=dword:00000001
+"Extract Command"="$(Zip32bitExecutable)"
+"Extract Arguments"="-ext -nozipextension -directories -path \"$(ArchiveFullName)\" @\"$(ListFullName)\""
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\25]
+"Type"=dword:00000000
+"Title"="PKUNZIP (Externo DOS, probado con v2.04g)"
+"Ext"="*.zip"
+"Support Long Names"=dword:00000000
+"Need ANSI List"=dword:00000000
+"Extract Command"="$(Unzip16bitExecutable)"
+"Extract Arguments"="-d -Jhrs $(ArchiveDOSFullName) @$(ListDOSFullName)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\3]
+"Type"=dword:ffffffe5
+"Title"="UnLHA (Plugin)"
+"Ext"="*.lzh;*.lha;*.lzs"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\4]
+"Type"=dword:ffffffe6
+"Title"="UnISO (Plugin)"
+"Ext"="*.iso;*.isz;*.nrg;*.bin;*.img;*.pdi;*.cdi;*.cif;*.ncd;*.c2d;*.mdf;*.dmg"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\5]
+"Type"=dword:ffffffe7
+"Title"="UnFAT (Plugin)"
+"Ext"="*.ima"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\6]
+"Type"=dword:ffffffe9
+"Title"="UnCHM (Plugin)"
+"Ext"="*.chm"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\7]
+"Type"=dword:ffffffea
+"Title"="UnCAB (Plugin)"
+"Ext"="*.cab"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\8]
+"Type"=dword:ffffffeb
+"Title"="UnARJ (Plugin)"
+"Ext"="*.arj;*.a##"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Custom Unpackers\9]
+"Type"=dword:fffffff5
+"Title"="Desencriptar (Plugin)"
+"Ext"="*.ena"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\1]
+"Packer UID"=dword:00000001
+"Packer Executable"="jar32"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\10]
+"Packer UID"=dword:0000000a
+"Packer Executable"="arj32"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\11]
+"Packer UID"=dword:0000000b
+"Packer Executable"="ace32"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\12]
+"Packer UID"=dword:0000000c
+"Packer Executable"="ace"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\2]
+"Packer UID"=dword:00000002
+"Packer Executable"="rar"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\3]
+"Packer UID"=dword:00000003
+"Packer Executable"="arj"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\4]
+"Packer UID"=dword:00000004
+"Packer Executable"="lha"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\5]
+"Packer UID"=dword:00000005
+"Packer Executable"="uc"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\6]
+"Packer UID"=dword:00000006
+"Packer Executable"="jar16"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\7]
+"Packer UID"=dword:00000007
+"Packer Executable"="rar"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\8]
+"Packer UID"=dword:00000008
+"Packer Executable"="pkzip25"
+"Use Packer Executable To Unpack"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Packers & Unpackers\Predefined Packers\9]
+"Packer UID"=dword:00000009
+"Packer Executable"="pkzip"
+"Use Packer Executable To Unpack"=dword:00000000
+"Unpacker Executable"="pkunzip"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Password Manager]
+"Use Master Password"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\1]
+"Name"="ZIP"
+"DLL"="zip\\zip.spl"
+"Version"="1.39"
+"Copyright"="Copyright © 1999-2019 ALTAP"
+"Extensions"="zip;pk3;pk4;jar"
+"Description"="Crear, hojear y extraer archivos ZIP."
+"Configuration Key"="ZIP"
+"FS Name"=""
+"Functions"=dword:0000003f
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,b5,49,44,41,54,78,9c,95,\
+  92,cb,11,c5,20,08,00,39,d8,51,7a,b2,8e,77,b2,07,7b,a2,20,6f,bc,48,40,fc,11,\
+  27,71,f6,90,51,17,10,80,c0,16,00,91,c7,78,e6,c7,f0,ff,b0,91,1f,2e,34,a2,10,\
+  42,20,3d,87,44,8e,40,cc,33,b7,b3,49,66,20,a5,44,1e,16,f5,91,54,50,b8,44,c8,\
+  82,52,0a,d9,27,47,11,9a,40,25,5b,54,10,23,0c,cc,82,be,d4,e1,0d,2c,03,8b,5c,\
+  c1,bc,0a,dc,37,a8,17,e7,0c,76,02,37,83,3e,7a,bd,58,c9,71,14,ec,a2,73,06,de,\
+  86,a2,97,fb,0e,68,17,f8,11,4f,11,f4,72,44,67,4e,7a,c1,db,24,b6,9a,bd,49,7c,\
+  ed,b5,1c,3e,0a,4e,8b,33,ec,47,3e,2f,4d,3a,08,c0,4a,d3,2c,3e,0a,d6,d2,fe,62,\
+  31,12,86,9c,44,db,ed,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\1\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\1\Menu\1]
+"State"=dword:ffffffff
+"ID"=dword:00000004
+"Name"="&Comentario del archivo..."
+"Skill"=dword:00000006
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\1\Menu\2]
+"State"=dword:ffffffff
+"ID"=dword:00000001
+"Name"="Crear archivo &autoextraíble (.exe)..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\1\Menu\3]
+"State"=dword:ffffffff
+"ID"=dword:00000003
+"Name"="Archivo de &prueba"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\10]
+"Name"="Mapa del disco"
+"DLL"="diskmap\\diskmap.spl"
+"Version"="1.12"
+"Copyright"="Copyright © 2009-2019 Ondrej Zarevucky"
+"Extensions"=""
+"Description"="Muestra un mapa con los ficheros del disco."
+"Configuration Key"="DISKMAP"
+"FS Name"=""
+"Functions"=dword:00000020
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,02,31,49,44,41,54,78,9c,cd,\
+  91,df,6b,52,01,14,c7,6f,22,4a,e2,20,58,a4,bd,48,7b,da,5b,b6,27,a1,c7,b4,ff,\
+  20,68,0f,7b,f0,21,5f,7a,68,4c,b8,c5,74,34,98,8e,39,47,b5,bd,54,63,6a,18,92,\
+  3f,ef,6d,9a,36,50,e6,e6,af,54,bc,d3,5d,d7,bc,a8,77,77,15,49,a3,55,2f,31,28,\
+  b6,be,74,1d,f4,d8,66,6f,1d,f8,c2,81,73,be,9f,c3,39,87,20,fe,cb,30,99,4c,57,\
+  bc,2b,15,86,eb,1c,d4,2a,fc,3e,f3,c4,f3,a2,d3,b3,59,a5,52,9d,73,3e,f5,b1,59,\
+  01,af,85,af,d8,6c,ef,a3,ba,bd,87,92,41,7f,6d,a6,27,c0,f0,cd,61,e7,28,fd,9d,\
+  cc,09,f0,3e,ca,82,ac,7e,44,88,ed,20,fe,30,54,a4,e5,32,d9,85,53,01,d7,f5,06,\
+  e7,6d,ea,87,d1,5f,c3,9d,d6,67,2c,be,dd,c3,62,e5,03,3c,b6,f0,f6,33,b9,5c,3e,\
+  78,2a,a0,af,af,4f,f3,f8,65,71,61,94,3e,b8,5c,da,7a,e7,ce,33,1c,1f,2b,34,b3,\
+  f7,c6,c7,2b,5a,ad,56,75,2a,40,a3,d1,9c,9d,b0,4e,b4,58,8e,3f,da,d9,7d,0f,3a,\
+  b1,8a,54,7e,03,54,24,7c,58,2e,17,7f,46,a3,d1,66,30,18,8c,92,24,39,a2,56,ab,\
+  09,42,a9,54,12,3a,9d,6e,68,35,95,fc,b4,cb,b7,e1,71,3d,87,c5,62,01,d7,68,80,\
+  a6,69,84,43,21,ac,af,af,81,61,18,14,0a,05,2c,2d,2d,a1,5e,af,83,e3,38,f4,f7,\
+  f7,5f,22,02,81,40,dd,ed,76,ff,2a,97,de,a0,b6,c1,88,0d,2e,cc,39,9d,a8,6f,37,\
+  d1,de,ed,60,ab,21,20,b9,96,87,3f,18,41,20,14,06,cf,f3,c8,64,32,f0,78,3c,10,\
+  87,0f,11,f3,f3,0b,28,95,ab,78,15,4d,62,2d,bd,0e,af,d7,8f,5c,ae,82,d9,d9,b9,\
+  e3,69,89,44,1c,f9,7c,1e,82,20,20,9d,4e,c3,66,b3,75,75,24,6e,3b,22,4a,41,50,\
+  d4,f2,37,97,cb,8d,fb,13,93,20,c9,bb,68,b5,3b,d8,d9,11,1f,5f,da,44,2a,99,81,\
+  dd,3e,03,96,65,8f,61,56,ab,15,46,a3,f1,8b,54,2a,bd,21,9a,25,7f,ee,d6,4d,ce,\
+  eb,f5,86,19,bb,cd,b1,11,a1,96,e1,f3,05,41,51,31,d0,91,38,d4,ea,8b,98,9e,9e,\
+  c6,d8,d8,d8,81,42,a1,98,14,7b,65,7f,7b,c0,99,6e,51,22,91,0c,0e,0c,0c,dc,72,\
+  38,1e,08,b1,d8,0a,cc,66,33,a6,a6,a6,0e,c5,da,d5,93,cc,27,41,e5,a2,a4,ff,6a,\
+  ec,39,7e,03,7a,8d,43,ff,2a,ef,cc,29,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\10\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\10\Menu\1]
+"State"=dword:00010002
+"ID"=dword:00000001
+"Name"="Mostrar &Mapa del disco"
+"HotKey"=dword:00000344
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11]
+"Name"="Encriptar y desencriptar"
+"DLL"="encrypt\\encrypt.spl"
+"Version"="1.11"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"="ena"
+"Description"="Encriptación y desencriptación fuertes; destrucción segura de ficheros."
+"Configuration Key"="Encrypt & Decrypt"
+"FS Name"=""
+"Functions"=dword:0000003f
+"Load On Start"=dword:00000001
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,7b,49,44,41,54,78,9c,dd,\
+  92,db,09,c0,30,08,45,fd,c8,ac,1d,29,e0,36,0e,e0,4e,b6,5a,84,3c,54,4a,bf,4a,\
+  13,2e,42,d0,e3,45,03,02,f1,6d,ad,c9,a8,2c,2f,2d,d6,c3,cc,d2,7b,37,65,90,b0,\
+  98,88,ac,d8,bb,57,90,10,b0,26,47,6f,1f,05,ac,93,cf,14,02,7c,f2,d7,ec,07,e1,\
+  2c,06,61,84,09,b2,59,d7,0d,b8,dd,71,0b,78,80,01,34,a6,80,bb,ab,94,0e,4a,c0,\
+  6f,1c,b0,25,66,2a,01,ba,a2,27,0a,01,6f,3f,d2,09,c9,ee,12,5c,52,7c,70,e1,00,\
+  00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\1]
+"State"=dword:01b00002
+"ID"=dword:00000001
+"Name"="&Encriptar..."
+"HotKey"=dword:00000345
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\10]
+"State"=dword:00010002
+"ID"=dword:00000004
+"Name"="&Limpiar espacio libre del disco..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\2]
+"State"=dword:20000001
+"ID"=dword:00000002
+"Name"="De&sencriptar archivo..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\3]
+"State"=dword:00010002
+"ID"=dword:00000007
+"Name"="&Crear una clave..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\4]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\5]
+"State"=dword:20040001
+"ID"=dword:00000005
+"Name"="C&ambiar contraseña o clave del archivo..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\6]
+"State"=dword:00010012
+"ID"=dword:00000008
+"Name"="Ca&mbiar la contraseña de la clave..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\7]
+"State"=dword:00010012
+"ID"=dword:00000006
+"Name"="Cam&biar comentario del archivo o clave..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\8]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\11\Menu\9]
+"State"=dword:01b00002
+"ID"=dword:00000003
+"Name"="&Destruir ficheros..."
+"HotKey"=dword:00000353
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\12]
+"Name"="Comparador de ficheros"
+"DLL"="filecomp\\filecomp.spl"
+"Version"="1.19"
+"Copyright"="Copyright © 2000-2019 ALTAP"
+"Extensions"=""
+"Description"="Comparación visual de dos ficheros de texto o binarios."
+"Configuration Key"="File Comparator"
+"FS Name"=""
+"Functions"=dword:00000030
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,84,49,44,41,54,78,9c,a5,\
+  93,d1,0d,80,20,0c,44,f9,60,23,77,72,94,ee,c0,4e,ec,84,50,6d,02,e5,0a,25,42,\
+  2e,31,35,3c,ef,45,0d,25,fc,db,70,48,44,05,e5,08,a0,57,9b,c5,18,27,88,13,90,\
+  8a,cc,34,64,0d,a8,b7,39,df,c1,3e,03,c0,74,ae,4f,96,06,6d,e5,9c,39,10,60,3b,\
+  87,21,4e,80,72,ee,9a,2c,01,d7,fd,06,3b,bb,1a,d8,ce,72,bd,00,24,ad,cb,91,03,\
+  db,b7,80,1a,20,67,f8,21,79,1a,6c,01,bd,a3,ce,16,80,1c,2d,67,d7,bf,70,b2,1f,\
+  94,75,57,fb,32,b4,09,6f,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\12\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\12\Menu\1]
+"State"=dword:00020000
+"ID"=dword:00000001
+"Name"="Comparar ficheros..."
+"HotKey"=dword:00000343
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13]
+"Name"="Cliente FTP"
+"DLL"="ftp\\ftp.spl"
+"Version"="1.35"
+"Copyright"="Copyright © 2002-2019 ALTAP"
+"Extensions"=""
+"Description"="Transferencia de ficheros y directorios por FTP."
+"Configuration Key"="FTP"
+"FS Name"="ftp:ftps"
+"Functions"=dword:000000b0
+"FS Cmd Name"="/	Cliente FTP"
+"FS Cmd Icon"=dword:00000000
+"Uses Password Manager"=dword:00000001
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,b5,49,44,41,54,78,9c,ad,\
+  92,d1,0d,c5,20,08,45,f9,f0,d3,6d,dc,c9,39,de,1a,dd,89,9d,68,11,11,b0,b5,a9,\
+  c9,93,dc,0f,09,f7,40,50,20,78,8e,72,00,79,ad,ea,96,46,3e,05,8b,88,73,95,9a,\
+  5e,01,6a,c4,1e,66,36,c0,0c,79,34,8f,ce,55,cc,70,50,00,00,fc,28,00,56,66,36,\
+  36,33,46,00,2b,e7,4c,06,68,c9,3e,ea,e8,dc,8d,48,61,02,60,f0,a5,94,92,00,38,\
+  89,bc,30,d2,42,31,6b,e7,d9,ac,7b,51,88,01,fa,f6,c7,c8,ae,3b,17,fb,a5,fa,29,\
+  6e,cf,06,35,42,56,e6,00,d0,67,e3,c4,ae,ec,f3,50,95,c5,b8,f3,e5,1e,7e,9f,16,\
+  cc,5d,7c,ce,83,06,40,21,be,c3,1b,e0,36,81,c6,ce,04,61,07,7f,05,ec,ea,04,5b,\
+  0f,17,29,cb,4e,cb,63,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\1]
+"State"=dword:00010001
+"ID"=dword:00000001
+"Name"="&Conectar con servidor FTP..."
+"HotKey"=dword:00000346
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\10]
+"State"=dword:ffffffff
+"ID"=dword:0000000c
+"Name"="&Binario"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\11]
+"Type"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\12]
+"State"=dword:00080001
+"ID"=dword:0000000d
+"Name"="&Refrescar"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\13]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\14]
+"State"=dword:00080001
+"ID"=dword:00000003
+"Name"="&Añadir marcador..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\15]
+"State"=dword:00080001
+"ID"=dword:00000006
+"Name"="&Enviar comando FTP..."
+"Skill"=dword:00000006
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\16]
+"State"=dword:00080001
+"ID"=dword:00000009
+"Name"="&Ver listado bruto..."
+"Skill"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\17]
+"State"=dword:ffffffff
+"ID"=dword:00000014
+"Name"="L&istar ficheros y directorios (Unix)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\2]
+"State"=dword:00010001
+"ID"=dword:00000007
+"Name"="&Organizar marcadores..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\3]
+"State"=dword:00010001
+"ID"=dword:00000005
+"Name"="Ver re&gistros..."
+"Skill"=dword:00000006
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\4]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\5]
+"State"=dword:00010001
+"ID"=dword:00000012
+"Name"="&Desconectar...	F12"
+"HotKey"=dword:00020000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\6]
+"State"=dword:ffffffff
+"ID"=dword:00000018
+"Name"="Ver certi&ficado..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\7]
+"State"=dword:00080001
+"ID"=dword:00000015
+"Name"="Modo de &transferencia"
+"Type"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\8]
+"State"=dword:ffffffff
+"ID"=dword:0000000a
+"Name"="&Automático"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\13\Menu\9]
+"State"=dword:ffffffff
+"ID"=dword:0000000b
+"Name"="A&SCII"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\14]
+"Name"="Visor multimedia"
+"DLL"="mmviewer\\mmviewer.spl"
+"Version"="1.16"
+"Copyright"="Copyright © 2003-2019 ALTAP & Tomas Jelinek (tomas@tjelinek.com)"
+"Extensions"=""
+"Description"="Presenta información sobre ficheros multimedia como MP3, OGG, WAV, etc."
+"Configuration Key"="MMVIEWER"
+"FS Name"=""
+"Functions"=dword:00000060
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,69,49,44,41,54,78,9c,bd,\
+  d2,51,0a,c0,20,0c,03,d0,1e,3d,47,eb,cd,1c,9d,08,a5,1a,96,fa,b1,4a,60,a0,3e,\
+  82,cc,86,cd,05,60,28,59,e7,d7,b2,0c,7c,8d,bb,6f,48,1b,88,c9,08,05,60,78,93,\
+  c7,e2,78,8a,04,9c,a0,68,22,01,ac,49,0b,a8,df,ff,00,b5,76,0b,38,3d,dc,15,c0,\
+  da,c8,6f,c0,da,5c,01,75,64,80,0d,05,62,43,cd,06,d4,ff,5c,49,dc,7b,00,e8,a1,\
+  cb,89,a2,3f,7c,27,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\14\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\14\Menu\1]
+"State"=dword:ffffffff
+"ID"=dword:00000001
+"Name"="Exportar información en &HTML..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\15]
+"Name"="Red"
+"DLL"="nethood\\nethood.spl"
+"Version"="1.08"
+"Copyright"="Copyright © 2008-2019 ALTAP"
+"Extensions"=""
+"Description"="Proporciona acceso a los ordenadores de la red."
+"Configuration Key"="nethood"
+"FS Name"="net"
+"Functions"=dword:000000b0
+"FS Cmd Name"=",	Red"
+"FS Cmd Icon"=dword:00000000
+"Is Nethood"=dword:00000001
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,02,4d,49,44,41,54,78,9c,8d,\
+  91,6f,4b,53,71,18,86,f7,11,fa,08,81,42,05,91,2b,6d,89,7f,a7,46,2c,6a,4c,c9,\
+  20,29,25,5a,94,1a,d2,16,4d,a7,23,8b,b4,17,52,24,d9,cc,82,f0,24,58,16,4d,e7,\
+  9c,e6,9c,a9,88,ed,d8,dc,5f,b7,64,c9,5a,27,b5,65,38,6c,4a,2f,7a,79,f7,fc,76,\
+  22,82,ad,e1,03,f7,bb,73,5d,cf,f3,bb,8f,44,92,66,cc,41,41,6e,0b,af,71,a6,0f,\
+  2b,42,cb,88,13,fa,61,de,37,b6,bc,da,69,f6,09,bb,d2,71,89,b1,84,84,f3,33,5f,\
+  d6,c1,7f,fb,01,f7,c6,36,1a,06,5d,50,1a,c7,61,5e,5a,81,fd,53,34,de,3e,3a,23,\
+  fd,2f,6c,0a,84,cb,a7,09,0e,6c,fe,44,30,fe,0b,d6,c8,26,b4,d6,00,14,46,3b,4e,\
+  74,0e,c3,f1,35,86,ee,29,57,7c,c0,17,da,9d,52,d0,ef,8f,08,8f,bd,51,4c,ac,6e,\
+  a3,c6,12,c6,a9,97,01,a8,9e,39,71,bc,67,0a,65,77,cd,e8,b0,b9,c1,47,63,78,1d,\
+  0c,73,49,b0,aa,df,27,35,3a,3f,e3,e9,e2,77,e8,67,d7,70,7a,70,99,04,41,a8,fa,\
+  16,48,30,9d,10,dc,b3,7b,e0,d9,d8,c2,d0,52,44,48,16,70,f3,f2,33,af,16,f1,c4,\
+  17,45,97,67,1d,d5,e6,8f,a8,78,ee,87,b2,97,87,a2,7b,12,a5,1d,26,54,3d,1c,82,\
+  37,b6,85,17,9e,10,24,25,06,0e,3b,89,9c,52,cc,72,67,00,b9,fa,47,50,de,ea,c1,\
+  81,1a,9d,28,68,f5,02,37,29,06,37,a0,5b,00,34,ef,81,7a,1e,b8,f8,0e,a8,9e,05,\
+  54,6f,01,c5,04,50,d8,c2,21,bf,b5,17,39,da,fb,d8,7f,c1,80,cc,ca,7a,73,42,70,\
+  db,07,b4,51,6e,78,80,26,17,a0,75,8a,02,f5,1c,50,4e,f0,31,82,cb,6c,40,5e,33,\
+  07,99,ae,0b,59,b5,6d,d8,53,a5,41,86,4a,2d,4f,79,c1,55,ba,e0,b2,43,84,8f,12,\
+  58,32,0e,14,bd,01,9d,ce,41,5a,d7,8e,7d,e7,74,c8,a8,b8,24,fe,01,26,68,26,90,\
+  a5,d1,25,9e,5f,c7,8b,70,29,81,c5,04,16,8c,d1,f6,51,40,46,82,bd,67,af,c7,33,\
+  2b,af,68,fe,b6,ce,04,d7,9c,e2,d9,0d,f3,40,ad,43,7c,b3,9c,e0,42,82,f3,08,ce,\
+  25,f8,b0,15,c8,69,e2,90,f4,db,58,bb,6c,23,3b,59,4d,a5,9d,9c,14,cf,cd,ff,03,\
+  ca,08,cc,1e,01,a4,16,e0,60,63,0a,41,11,35,5b,c0,da,a5,82,58,49,ec,9d,47,28,\
+  32,da,c6,36,66,13,74,88,c2,e0,2c,5d,0a,41,aa,e1,fd,21,b0,ec,e8,e3,7f,e7,41,\
+  9f,15,a9,92,8e,f9,0d,09,24,00,3f,86,ba,b0,a6,00,00,00,00,49,45,4e,44,ae,42,\
+  60,82
+"PluginIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\16]
+"Name"="Visor de ejecutable portátil"
+"DLL"="peviewer\\peviewer.spl"
+"Version"="3.0"
+"Copyright"="Copyright © 2001-2019 ALTAP"
+"Extensions"=""
+"Description"="Presenta información sobre ficheros ejecutables portátiles como EXE, DLL, etc."
+"Configuration Key"="PEVIEWER"
+"FS Name"=""
+"Functions"=dword:00000070
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\17]
+"Name"="PictView"
+"DLL"="pictview\\pictview.spl"
+"Version"="2.13"
+"Copyright"="Copyright © 2000-2019 ALTAP & Jan Patera"
+"Extensions"=""
+"Description"="Visor y consersor rápido de imágenes."
+"Configuration Key"="PictView"
+"FS Name"=""
+"Functions"=dword:00000070
+"HomePage"="www.pictview.com/salamander"
+"ThumbnailMasks"="*.mng;*.dtx;*.dds;*.nef;*.crw;*.eps;*.ept;*.ai;*.raf;*.mov;*.hpi;*.pntg;*.thumb;*.tiff;*.wbmp;*.mbm;*.ani;*.psp*;*.clk;*.thm;*.zno;*.st;*.cals;*.itiff;*.jfif;*.jpeg;*.macp;*.mpnt;*.paint;*.pict;*.2bp;*.stw;*.sun;*.tga;*.tif;*.udi;*.web;*.wpg;*.xar;*.zbr;*.zmf;*.bw;*.psd;*.pyx;*.qfx;*.ras;*.rgb;*.rle;*.sam;*.scx;*.sep;*.sgi;*.ska;*.pat;*.pbm;*.pc2;*.pcd;*.pct;*.pcx;*.pgm;*.pic;*.png;*.pnm;*.ppm;*.jff;*.jif;*.jmx;*.jpe;*.jpg;*.lbm;*.mac;*.mil;*.msp;*.ofx;*.pan;*.flc;*.fli;*.gem;*.gif;*.ham;*.hmr;*.hrz;*.icn;*.ico;*.iff;*.img;*.cdt;*.cel;*.clp;*.cit;*.cmx;*.cot;*.cpt;*.cur;*.cut;*.dcx;*.dib;*.82i;*.83i;*.85i;*.86i;*.89i;*.92i;*.awd;*.bmi;*.bmp;*.cal;*.cdr;*.arw;*.blp;*.cr2;*.dng;*.orf;*.pef"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,01,13,49,44,41,54,78,9c,a5,\
+  53,cb,0d,c3,30,08,65,9d,9c,99,23,c7,ac,c0,1c,de,a1,27,16,ea,89,73,d7,e8,08,\
+  94,07,49,e4,b8,49,5b,a9,8a,9e,c2,f7,19,30,26,11,f6,d6,c8,97,65,71,a7,fa,60,\
+  03,ae,74,c4,22,07,36,82,00,8f,19,b9,6a,c1,ad,70,a5,23,16,39,c8,a5,79,9e,d3,\
+  c9,c1,c6,aa,09,02,5a,73,65,49,b0,94,be,f9,11,8b,1c,e4,66,49,60,cd,a4,e4,75,\
+  67,b7,38,09,8a,fa,83,6e,ce,e6,bb,2f,11,ce,ac,2c,d2,76,02,5e,09,e2,4c,77,38,\
+  15,25,36,17,9c,68,72,20,e0,9e,20,87,03,29,82,47,02,8a,32,45,a3,1e,ae,ff,4e,\
+  12,b1,90,72,88,23,41,91,c4,d4,6d,25,10,fa,4c,30,b6,50,c0,20,39,09,28,7d,5c,\
+  b6,b3,16,4e,09,30,34,1a,f0,eb,0c,76,48,97,2c,c3,2d,7c,9b,c1,69,05,86,d9,d8,\
+  8f,33,d0,77,02,11,f3,e7,e3,1e,24,17,7b,90,15,58,57,41,d7,02,47,91,6a,16,37,\
+  63,e5,c3,96,6e,04,b9,ca,21,4d,d3,54,eb,9c,7d,65,6f,91,18,4b,14,ab,2c,90,57,\
+  7b,c6,70,b7,ca,a7,8f,69,bb,cc,0b,fd,f0,98,fe,7d,ce,2f,84,62,5c,36,ab,ee,03,\
+  f6,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\17\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\17\Menu\1]
+"State"=dword:ffffffff
+"ID"=dword:00000069
+"Name"="Ver bitmap desde &portapapeles"
+"HotKey"=dword:00000342
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\17\Menu\2]
+"State"=dword:00010001
+"ID"=dword:00000094
+"Name"="&Captura de pantalla..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\17\Menu\3]
+"State"=dword:00900001
+"ID"=dword:000000bc
+"Name"="&Actualizar miniatura"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\17\Menu\4]
+"State"=dword:00010001
+"ID"=dword:000000b4
+"Name"="&Escanear imagen..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18]
+"Name"="Editor del registro"
+"DLL"="regedt\\regedt.spl"
+"Version"="1.14"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"=""
+"Description"="Hojear, ver y modificar el registro de Windows."
+"Configuration Key"="RegEdit"
+"FS Name"="reg"
+"Functions"=dword:000000b0
+"FS Cmd Name"="	Registro de Windows"
+"FS Cmd Icon"=dword:00000000
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,8d,49,44,41,54,78,9c,95,\
+  93,51,0e,c0,20,08,43,39,3a,37,57,59,d4,14,0a,ea,5c,1a,3f,06,8f,d6,04,69,72,\
+  ff,54,b5,55,ff,de,9a,c7,91,51,fa,1b,60,cd,62,32,80,dd,13,82,8e,9e,1c,ec,e6,\
+  71,a2,23,2a,ce,84,cd,d1,11,4f,9a,13,1a,16,01,c8,39,5a,0e,74,52,97,35,49,00,\
+  ee,86,07,f5,cd,58,08,93,b6,60,b2,03,7c,cd,08,00,65,4e,08,e0,a6,2d,e0,7e,24,\
+  06,33,00,23,54,71,5e,23,9c,e2,dc,23,04,11,ac,04,54,11,62,9c,64,1f,8e,11,a2,\
+  83,74,99,28,67,a1,6a,57,3a,ae,83,15,dd,05,1e,82,79,00,00,00,00,49,45,4e,44,\
+  ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu\1]
+"State"=dword:00010001
+"ID"=dword:00000001
+"Name"="&Buscar en el registro de Windows..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu\2]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu\3]
+"State"=dword:10081008
+"ID"=dword:00000002
+"Name"="Nueva &clave..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu\4]
+"State"=dword:10081008
+"ID"=dword:00000003
+"Name"="Nuevo &valor..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu\5]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\18\Menu\6]
+"State"=dword:00010001
+"ID"=dword:00000004
+"Name"="&Exportar..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\19]
+"Name"="Cambio de nombre"
+"DLL"="renamer\\renamer.spl"
+"Version"="1.13"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"=""
+"Description"="Potente utilidad de cambio de nombre con previsualización real."
+"Configuration Key"="Renamer"
+"FS Name"=""
+"Functions"=dword:00000030
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,91,49,44,41,54,78,9c,bd,\
+  93,dd,0d,80,20,0c,84,79,60,23,76,62,14,76,e8,4e,dd,09,29,a4,fc,d8,52,34,26,\
+  9e,39,1f,80,7e,57,04,5d,76,f2,49,29,65,cb,f3,5a,a5,bc,01,76,a2,39,ef,7d,56,\
+  01,4b,8a,01,20,31,44,4d,b6,00,54,38,db,c5,18,f2,c9,43,50,df,88,58,dd,01,1a,\
+  9d,35,e6,41,40,3a,20,60,d9,0e,e0,d8,5b,11,8f,35,00,08,c8,02,a0,85,77,00,8f,\
+  fd,d3,c1,e7,6f,70,3e,05,a3,83,fd,3d,40,35,59,74,b0,03,f0,59,5b,de,00,50,dc,\
+  36,cb,02,f0,34,59,fd,99,de,24,73,cd,05,7d,1b,a0,61,47,90,be,66,00,00,00,00,\
+  49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\19\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\19\Menu\1]
+"State"=dword:01b00002
+"ID"=dword:00000001
+"Name"="&Cambio de nombre en lote..."
+"HotKey"=dword:00000352
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\2]
+"Name"="TAR"
+"DLL"="tar\\tar.spl"
+"Version"="3.34"
+"Copyright"="Copyright © 1999-2019 ALTAP"
+"Extensions"="tar;tgz;taz;tbz;gz;bz;bz2;z;rpm;cpio;deb"
+"Description"="Hojear y extraer archivos Unix."
+"Configuration Key"="TAR"
+"FS Name"=""
+"Functions"=dword:00000069
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\20]
+"Name"="Dividir y combinar"
+"DLL"="splitcbn\\splitcbn.spl"
+"Version"="1.11"
+"Copyright"="Copyright © 2001-2019 ALTAP"
+"Extensions"=""
+"Description"="Dividir y combinar ficheros."
+"Configuration Key"="SplitCombine"
+"FS Name"=""
+"Functions"=dword:00000030
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,91,49,44,41,54,78,9c,a5,\
+  92,d1,0d,c0,20,08,44,fd,70,76,77,60,27,77,a2,11,73,09,20,2a,6d,db,5c,1b,08,\
+  3c,0d,47,e1,c2,a5,b5,c6,59,8d,7a,fd,16,00,ee,0f,09,a0,d6,ca,1f,00,24,5f,d4,\
+  69,48,02,40,e6,06,10,20,17,00,2d,ff,de,bb,28,04,48,52,35,cf,38,86,2c,00,24,\
+  d0,e4,63,1c,30,14,df,40,4d,d6,4f,1a,8d,51,6c,3c,f5,a0,c8,77,7f,88,2d,86,55,\
+  41,ac,17,ee,b0,07,d6,6f,1d,cf,1c,2d,50,05,58,a7,7d,b2,72,b3,07,39,c8,06,f0,\
+  f3,06,d8,b0,ac,0c,00,be,be,d5,e8,7d,00,f3,22,b7,a4,5a,4a,17,78,00,00,00,00,\
+  49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\20\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\20\Menu\1]
+"State"=dword:00010012
+"ID"=dword:00000001
+"Name"="&Dividir fichero..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\20\Menu\2]
+"State"=dword:00900002
+"ID"=dword:00000002
+"Name"="&Combinar ficheros..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\21]
+"Name"="UnARJ"
+"DLL"="unarj\\unarj.spl"
+"Version"="1.21"
+"Copyright"="Copyright © 2000-2019 ALTAP"
+"Extensions"="arj"
+"Description"="Hojear y extraer archivos ARJ."
+"Configuration Key"="UnARJ"
+"FS Name"=""
+"Functions"=dword:00000039
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\22]
+"Name"="DesCAB"
+"DLL"="uncab\\uncab.spl"
+"Version"="1.27"
+"Copyright"="Copyright © 2001-2019 ALTAP"
+"Extensions"="cab"
+"Description"="Hojear y extraer archivos CAB."
+"Configuration Key"="UnCAB"
+"FS Name"=""
+"Functions"=dword:00000039
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\23]
+"Name"="UnCHM"
+"DLL"="unchm\\unchm.spl"
+"Version"="1.03"
+"Copyright"="Copyright © 2009-2019 ALTAP"
+"Extensions"="chm"
+"Description"="Hojear y extraer ficheros CHM."
+"Configuration Key"=""
+"FS Name"=""
+"Functions"=dword:00000009
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\24]
+"Name"="Desborrado"
+"DLL"="undelete\\undelete.spl"
+"Version"="1.11"
+"Copyright"="Copyright © 2004-2019 ALTAP"
+"Extensions"=""
+"Description"="Recupera ficheros borrados desde particiones FAT o NTFS."
+"Configuration Key"="UNDELETE"
+"FS Name"="del"
+"Functions"=dword:000000b0
+"FS Cmd Name"="	Desborrado"
+"FS Cmd Icon"=dword:00000000
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,02,23,49,44,41,54,78,9c,cd,\
+  d2,5d,4f,d3,50,18,07,f0,dd,f3,01,f4,da,0f,c0,bc,36,19,1f,c0,cf,c0,9d,de,18,\
+  bd,32,f1,aa,23,30,13,8d,31,40,5f,10,36,d0,cd,21,81,ad,74,eb,80,10,61,3a,14,\
+  c1,b0,97,36,1b,5b,99,6c,dd,ab,8e,65,ae,5b,d7,ae,5d,ab,81,10,3d,c7,d8,a4,8c,\
+  19,6e,3d,c9,ff,e2,9c,e4,fc,ce,93,e7,39,16,cb,7f,b1,9c,4e,17,e2,f7,93,1a,1d,\
+  5a,d3,68,3a,f4,27,41,9a,d6,82,41,5a,0b,80,50,81,a0,4e,51,01,7d,75,95,d2,49,\
+  90,c5,37,4b,3f,a6,31,1c,b9,00,70,dc,91,aa,28,bd,4e,57,51,25,b9,ab,48,92,ac,\
+  48,1d,a9,2b,89,1d,59,6a,8b,92,2c,b4,44,b9,29,b4,e4,46,53,90,13,0c,ab,f5,03,\
+  a3,54,80,6e,97,ab,b5,7c,b1,fc,95,e7,8b,15,3e,c7,97,f8,6c,ae,50,e0,b2,f9,42,\
+  2a,f3,a5,c8,a4,b8,62,8c,49,95,f6,a3,4c,c9,ed,5d,94,00,30,6a,06,6c,3e,3f,d9,\
+  e9,07,c6,36,b8,a6,33,c2,9d,f4,03,0b,6e,8f,0c,80,11,33,30,ec,79,ed,55,cc,c0,\
+  5d,7f,46,b4,d8,a3,bf,60,66,df,a5,eb,66,60,76,ce,a5,02,60,f8,42,23,e7,9c,2e,\
+  cd,0c,5c,7f,9a,38,1d,72,c4,ce,21,70,ed,49,fc,6c,27,9e,29,1b,00,8a,13,fa,a5,\
+  49,40,00,94,5d,80,c0,43,fa,48,08,b3,7c,65,2b,91,ab,da,d7,d3,cd,67,9b,87,0d,\
+  7a,3f,5d,85,c0,ee,e7,58,e5,5f,40,34,c1,26,ab,9e,3d,be,06,5f,bd,89,b3,ba,d1,\
+  c4,1b,cf,e3,3f,87,26,62,e7,e1,83,64,e5,6d,38,52,03,40,6c,10,b0,0d,01,9b,33,\
+  a9,42,e0,8e,2f,2d,1e,a4,f3,a5,95,bd,ec,b7,5b,2f,98,1e,3c,bb,b7,cc,b4,ff,02,\
+  e1,41,c0,7c,64,e7,63,fd,b6,fb,b0,6b,34,6f,fe,43,f6,c4,8a,31,ba,b1,7f,44,31,\
+  42,20,b4,fe,1d,00,0b,83,00,64,2b,fc,be,c1,1e,57,8a,ee,4f,b9,da,cb,dd,e3,9a,\
+  51,01,9c,c2,cc,76,aa,0e,7b,40,52,b4,80,e1,04,32,08,b8,1f,5a,db,68,5d,f5,91,\
+  96,96,7d,22,00,1e,0c,02,6c,2b,3e,b2,73,15,f0,ca,e3,95,01,30,72,09,b0,db,c7,\
+  ac,0e,c7,e3,53,9c,98,51,71,82,e8,e1,38,d1,c3,70,bc,87,62,20,28,a6,4d,a1,a8,\
+  36,39,85,6a,e3,e3,13,67,08,82,58,8d,7b,bf,01,9f,a6,0a,20,28,1f,b9,25,00,00,\
+  00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\24\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\24\Menu\1]
+"State"=dword:00010001
+"ID"=dword:00000001
+"Name"="&Recuperar ficheros y directorios borrados..."
+"HotKey"=dword:00000355
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\24\Menu\2]
+"State"=dword:01b00202
+"ID"=dword:00000002
+"Name"="Restaurar ficheros &encriptados desde copia de seguridad..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\25]
+"Name"="UnFAT"
+"DLL"="unfat\\unfat.spl"
+"Version"="1.1"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"="ima"
+"Description"="Hojear y extraer imágenes de disco FAT 12, 16, y 32."
+"Configuration Key"=""
+"FS Name"=""
+"Functions"=dword:00000009
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\26]
+"Name"="UnISO"
+"DLL"="uniso\\uniso.spl"
+"Version"="1.37"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"="iso;isz;nrg;bin;img;pdi;cdi;cif;ncd;c2d;dmg"
+"Description"="Hojear y extraer ficheros imágenes ISO de CD/DVD."
+"Configuration Key"="UnISO"
+"FS Name"=""
+"Functions"=dword:00000079
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,c9,49,44,41,54,78,9c,9d,\
+  93,cb,0d,c4,20,0c,05,d3,53,0a,e2,46,29,94,80,44,1b,54,90,02,b8,73,a2,16,6f,\
+  9c,e8,81,6d,60,b5,da,58,16,22,62,c6,16,9f,83,8e,39,5a,6b,64,73,b5,8e,63,09,\
+  5e,d7,d5,b3,d6,4a,54,12,c5,18,29,84,30,89,14,2c,41,2b,28,a9,3c,69,25,db,ca,\
+  48,09,73,52,d1,12,55,7d,25,81,80,41,a4,12,58,08,73,ef,3d,9d,e7,f9,8c,00,6f,\
+  55,4f,e7,1c,2d,05,16,c6,08,10,6b,b6,02,ae,d4,2b,df,1f,b7,cb,73,5b,44,09,d0,\
+  a2,ed,00,30,cf,bf,0a,f0,13,6d,f2,a6,c9,f6,2d,9c,73,1e,02,9c,02,c0,b1,e3,69,\
+  da,58,5b,bd,0b,f8,96,69,78,08,ec,11,cb,ea,ea,26,b2,44,c2,52,b0,83,a7,b7,c0,\
+  92,57,94,54,db,00,2d,3c,09,10,58,2c,f3,a7,d7,f8,4f,7c,00,80,0d,bc,54,c3,13,\
+  d5,02,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\27]
+"Name"="UnLHA"
+"DLL"="unlha\\unlha.spl"
+"Version"="1.13"
+"Copyright"="Copyright © 2001-2019 ALTAP"
+"Extensions"="lzh;lha;lzs"
+"Description"="Hojear y extraer archivos LHA."
+"Configuration Key"=""
+"FS Name"=""
+"Functions"=dword:00000009
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\28]
+"Name"="UnMIME"
+"DLL"="unmime\\unmime.spl"
+"Version"="1.14"
+"Copyright"="Copyright © 2001-2019 ALTAP"
+"Extensions"="eml;b64;uue;xxe;hqx;ntx;cnm"
+"Description"="Hojear y extraer ficheros MIME/Base64, UU/XXEncode, yEncode y BinHex."
+"Configuration Key"="UnMIME"
+"FS Name"=""
+"Functions"=dword:00000039
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\29]
+"Name"="UnRAR"
+"DLL"="unrar\\unrar.spl"
+"Version"="3.01"
+"Copyright"="Copyright © 2000-2019 ALTAP"
+"Extensions"="rar"
+"Description"="Hojear y extraer archivos RAR."
+"Configuration Key"="UnRAR"
+"FS Name"=""
+"Functions"=dword:00000039
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\3]
+"Name"="PAK"
+"DLL"="pak\\pak.spl"
+"Version"="1.71"
+"Copyright"="Copyright © 1999-2019 ALTAP"
+"Extensions"="pak"
+"Description"="Hojear y extraer archivos PAK de Quake."
+"Configuration Key"=""
+"FS Name"=""
+"Functions"=dword:0000000f
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\30]
+"Name"="Windows Mobile"
+"DLL"="wmobile\\wmobile.spl"
+"Version"="1.08"
+"Copyright"="Copyright © 2003-2019 Juraj Rojko & ALTAP"
+"Extensions"=""
+"Description"="Acceder a ficheros en dispositivo Windows Mobile."
+"Configuration Key"="WMOBILE"
+"FS Name"="CE"
+"Functions"=dword:000000a0
+"FS Cmd Name"="	Mobile Device"
+"FS Cmd Icon"=dword:00000000
+"FS Cmd Visible"=dword:00000000
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,02,21,49,44,41,54,78,9c,8d,\
+  cc,4f,48,93,61,1c,07,70,6f,d1,a1,43,74,a9,43,97,a0,43,87,a2,ac,fd,53,34,31,\
+  45,0a,42,87,ee,54,d1,48,9b,4b,db,1c,2b,51,b3,cd,51,52,6f,31,5a,5b,6c,ee,75,\
+  ad,f6,be,6b,6b,6d,cb,65,64,a6,16,b2,37,37,b7,c7,25,24,c3,8a,4c,28,68,14,66,\
+  5e,84,3a,14,df,1e,47,87,12,dc,eb,ef,c7,97,e7,f0,fc,be,9f,a2,a2,55,d3,d1,a1,\
+  52,87,ef,69,f9,17,11,cd,0c,f1,d4,83,d8,6a,d0,d7,2c,87,35,56,0b,b3,6a,5f,96,\
+  9e,6c,59,dd,f9,6f,32,a1,e3,f8,e9,a9,c2,44,93,04,23,4d,25,98,d4,2b,10,6b,de,\
+  03,f7,79,19,02,67,8a,41,4f,4c,05,91,29,9f,0a,c9,ce,32,a8,35,5d,60,9c,4e,78,\
+  22,1c,1c,03,76,18,7d,6d,60,35,fb,57,00,3f,cd,d6,b5,81,7e,25,26,bb,64,58,fc,\
+  bd,88,ef,74,3f,d2,7d,fc,61,10,a6,68,37,58,ad,64,05,b8,5f,10,20,ce,a3,48,75,\
+  cb,30,b7,fc,3e,5f,ce,d2,e5,5e,fb,c0,0c,5f,01,db,2a,17,07,d2,b6,c3,48,5d,94,\
+  81,7c,23,f9,72,e2,47,02,d6,b1,eb,b0,c7,6f,82,d5,97,8a,03,a9,6b,d5,48,9b,a4,\
+  18,cb,8d,82,fc,22,e0,67,f8,7c,d9,fb,ea,36,58,43,99,38,c0,1b,ca,41,cc,52,0c,\
+  e5,86,30,be,24,a0,2f,e9,82,43,b0,c3,9d,72,81,35,1e,5c,07,d0,5a,02,d2,23,c5,\
+  c0,fc,20,82,d9,30,f4,de,b3,d0,79,5a,d0,fb,e4,12,d8,f6,4a,71,c0,50,27,a1,80,\
+  0c,a1,d9,28,dc,09,2f,2c,31,33,9c,89,5b,88,ce,47,c0,76,56,8b,03,5c,e3,01,10,\
+  8b,1c,fc,74,08,dc,74,10,c3,5f,9e,42,58,8e,c3,4f,fc,08,5e,3e,22,0e,4c,e8,f6,\
+  22,6d,51,a0,37,c0,20,14,eb,41,f8,ae,09,82,b5,1e,6f,03,e7,30,6a,6b,58,07,a0,\
+  dd,8d,05,47,25,16,fa,eb,f0,29,a0,06,c3,30,78,fe,50,87,39,a1,0d,99,58,a3,38,\
+  f0,f2,d4,2e,cc,ba,94,60,af,1e,c3,bb,47,27,f0,35,de,0e,4c,9d,46,ee,d9,49,54,\
+  29,76,bc,a1,27,ee,82,40,4b,f9,4e,f5,03,a3,f4,73,45,a9,04,99,3b,4a,64,38,15,\
+  5c,17,0e,2d,6d,df,b6,39,49,bf,bd,34,0d,34,1b,d7,04,e8,6c,a0,a9,a5,b1,d3,8c,\
+  d0,8c,ff,7d,6f,d0,54,d0,6c,fa,f7,f8,0f,38,9c,50,10,86,fc,d9,39,00,00,00,00,\
+  49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\4]
+"Name"="Visor de Internet Explorer"
+"DLL"="ieviewer\\ieviewer.spl"
+"Version"="1.12"
+"Copyright"="Copyright © 1999-2019 ALTAP"
+"Extensions"=""
+"Description"="Visor ligero para HTML y XML basado en Internet Explorer."
+"Configuration Key"="IEVIEWER"
+"FS Name"=""
+"Functions"=dword:00000060
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\5]
+"Name"="7-Zip"
+"DLL"="7zip\\7zip.spl"
+"Version"="1.31"
+"Copyright"="Copyright © 2004-2019 ALTAP"
+"Extensions"="7z"
+"Description"="Crear, hojear y extraer archivos 7-Zip."
+"Configuration Key"="7zip"
+"FS Name"=""
+"Functions"=dword:0000003f
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,6d,49,44,41,54,78,9c,bd,\
+  92,41,0e,c0,20,08,04,39,f0,76,de,c5,cf,6c,39,d0,6c,29,62,94,a4,90,3d,28,38,\
+  22,48,83,7a,de,3c,7e,03,98,79,ac,f4,0f,40,44,3e,aa,62,ae,07,90,59,15,33,7b,\
+  01,50,aa,da,03,98,19,04,d7,59,4e,0a,88,b7,63,32,f6,25,05,d8,86,07,22,00,ab,\
+  c2,3c,5a,dd,1e,9f,e4,87,b7,01,b3,4a,8f,00,65,13,67,53,d9,1a,63,54,f9,13,bb,\
+  7e,01,91,b6,0e,57,df,9e,05,8e,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\5\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\5\Menu\1]
+"State"=dword:20000001
+"ID"=dword:00000001
+"Name"="Archivo de prueba"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6]
+"Name"="Automatización"
+"DLL"="automation\\automation.spl"
+"Version"="1.7"
+"Copyright"="Copyright © 2009-2019 ALTAP"
+"Extensions"=""
+"Description"="Automatiza tareas comunes por medio de scripts."
+"Configuration Key"="Automation"
+"FS Name"=""
+"Functions"=dword:00000130
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  40,00,00,00,10,08,06,00,00,00,a6,e7,79,29,00,00,06,45,49,44,41,54,78,9c,e5,\
+  96,79,4c,53,77,00,c7,7f,45,30,71,cb,66,b6,6c,ce,8c,c5,b0,e0,34,1a,af,78,e2,\
+  31,85,b9,18,75,d3,2c,a2,13,af,c9,60,5e,a0,a2,72,ca,a1,a8,30,45,41,11,11,e5,\
+  50,0e,91,1b,61,82,47,55,10,10,dc,80,81,88,e5,1c,ca,38,0b,14,e8,4d,69,5f,db,\
+  ef,de,ab,69,55,5a,3b,f4,0f,f7,c7,7e,c9,37,ed,6b,9b,d7,f7,f9,bc,df,f7,f7,7b,\
+  c4,fe,a2,1d,3c,ee,3b,2f,03,40,fe,8f,21,8c,80,f9,1e,d3,df,5a,c2,d0,71,bd,a8,\
+  1e,86,72,2d,9f,83,54,f6,23,24,e6,94,32,39,a5,fd,fd,7f,2e,60,63,f8,1a,44,96,\
+  06,eb,24,08,7f,23,23,44,b9,64,a1,f8,16,eb,bc,f8,b6,59,ab,98,6d,aa,a4,8f,29,\
+  51,36,69,12,66,b0,8e,0b,92,4c,66,f2,e3,4c,48,7f,e4,08,d2,1b,66,6a,50,80,b1,\
+  11,93,5e,80,b9,2b,7f,d1,49,30,74,51,ef,72,46,12,db,d0,ef,b0,8f,bd,4d,27,21,\
+  ff,d6,94,14,f1,4d,02,59,f1,67,90,57,2e,c0,40,d9,2c,48,0b,3e,86,e8,06,81,28,\
+  9d,40,90,44,14,fc,78,13,57,5a,00,cb,90,80,ac,fb,35,46,05,9c,4f,64,e3,4e,09,\
+  47,2b,21,d8,d0,45,bd,cb,5a,92,ef,4f,2e,c5,f6,6b,1b,e1,9c,b3,15,eb,63,57,69,\
+  24,54,e7,59,42,5a,b6,08,68,71,87,f2,e9,3e,0c,94,cf,01,23,45,94,49,27,89,40,\
+  18,47,40,0b,d8,43,0b,18,c1,40,db,7e,6b,61,51,90,e9,83,3b,c9,1e,c8,8d,dd,8f,\
+  cc,0b,bb,90,78,da,01,1e,0e,33,e0,e9,38,f3,15,01,e7,12,6e,69,e0,b5,79,9d,80,\
+  b7,a9,65,48,8e,0a,27,b3,15,f8,35,73,00,47,52,c4,f0,bb,c2,87,d7,e5,1e,b8,45,\
+  73,b1,ef,42,1b,dc,a3,da,f4,fe,8f,d8,1c,b3,82,7d,f2,5a,0d,fc,d7,c7,a6,63,8a,\
+  ab,05,c6,6e,7f,1f,95,d5,59,78,5a,e8,01,55,9b,27,06,4a,27,43,fa,60,3c,28,6e,\
+  06,84,a5,2e,e8,8d,31,03,3f,92,25,ee,3d,67,3a,8e,11,10,b0,7b,96,92,12,66,42,\
+  2d,c9,86,5a,9c,05,aa,3f,09,3e,3f,4f,44,49,a2,2d,9e,5c,df,8a,2d,2b,be,d0,09,\
+  a0,94,2a,8d,04,ad,08,43,20,43,6b,39,5c,01,0c,7c,4d,8b,12,9c,56,0a,0f,eb,15,\
+  60,57,c8,91,53,26,47,c6,43,39,2e,dd,95,62,ea,ba,34,7d,01,f3,7c,a7,61,6d,cc,\
+  4a,1d,fc,68,7b,53,34,b7,e5,43,a1,06,38,6c,3f,c8,ca,67,40,72,6f,24,06,1b,dd,\
+  34,00,4d,b5,15,a8,0b,33,87,28,82,a0,fb,ac,e9,11,46,40,5a,b4,93,5a,45,83,ab,\
+  04,a9,50,f0,e2,31,d8,1e,81,70,8f,d9,1a,01,01,2e,56,38,ec,6c,f5,ca,2c,90,ca,\
+  14,1a,01,73,56,38,1a,14,30,b4,96,c3,95,c0,dc,f9,c6,0e,0a,65,8d,94,06,3c,a5,\
+  68,10,17,6f,0e,e0,6c,8e,18,c7,af,34,e1,ab,d5,09,fa,02,a6,b9,5b,be,02,cf,89,\
+  7b,0f,f2,3a,6f,fa,3b,35,24,3d,1c,f0,b3,4c,21,c9,1d,03,b5,e2,19,84,52,a0,f8,\
+  ca,0e,b4,9c,36,83,24,d2,04,1d,21,a6,55,8c,80,84,d0,cd,c8,8c,73,87,8c,06,97,\
+  36,05,41,c8,f1,43,57,89,33,22,bc,17,42,26,15,e8,c0,d5,6a,b5,06,be,bb,4f,6a,\
+  54,80,a1,5a,0e,47,02,33,ed,9f,b4,50,b8,53,29,c7,d5,fb,83,08,a7,c1,03,53,44,\
+  f0,8e,e5,61,77,48,15,c6,2d,8b,d2,17,30,de,e5,73,1d,fc,e3,8b,f4,d4,4e,a0,fb,\
+  1d,cb,82,a2,e1,04,7d,c5,4a,08,ca,ec,41,d5,bb,43,ae,a2,d0,90,e3,8a,f6,93,04,\
+  e2,0b,04,7d,a7,09,9a,4f,b0,ba,18,01,81,7b,66,cf,3c,ed,69,0d,71,43,20,f8,15,\
+  fb,c1,2b,de,86,ee,fc,8d,1a,01,b9,f1,6e,3a,01,72,85,12,fd,42,19,5a,b8,42,a3,\
+  02,5e,57,4b,fa,75,82,31,01,4c,e7,ff,a8,a3,90,f9,3b,7d,e7,6f,c9,70,22,9d,81,\
+  ef,c3,9e,f0,4e,ac,f3,cc,c7,98,c5,61,fa,02,cc,77,7e,f4,1c,3e,74,94,52,98,32,\
+  11,82,54,0b,f4,9e,1b,01,51,c6,a7,50,cb,5a,75,17,2f,e2,fe,89,67,a1,1f,42,1c,\
+  62,06,41,ac,25,ba,22,2c,51,e7,cf,e2,6a,57,ff,18,7f,eb,cc,5e,ce,71,f4,14,fe,\
+  a4,09,97,6d,8b,b6,dc,55,48,08,58,82,4b,a7,ec,a1,54,a9,21,92,ca,d1,c9,93,a0,\
+  b1,a5,df,a8,00,43,b5,fc,37,78,26,cc,82,77,b7,4a,8e,f8,bc,41,84,66,4b,70,30,\
+  96,8f,9d,61,9d,d8,10,d0,84,e5,ce,b9,18,3d,f7,94,be,80,4f,1c,47,69,4e,ce,4f,\
+  5b,f0,b7,66,9a,2a,45,18,ac,3d,03,aa,ed,3a,7d,40,e9,04,a8,28,19,64,8d,57,41,\
+  d5,46,d0,47,4a,cd,67,15,41,96,e5,69,e1,f6,88,0a,58,8d,73,be,cb,10,17,b4,5e,\
+  97,a8,63,b6,88,09,d8,84,86,f4,65,b8,e4,bf,08,b2,41,0a,3c,fe,00,9a,3b,04,78,\
+  f2,17,cf,a8,80,a1,b5,1c,0e,3c,13,66,b5,cf,2a,95,23,fc,86,14,87,ae,f4,61,f7,\
+  79,1a,3e,b0,11,ab,0f,56,62,e9,b6,0c,8c,9a,11,a8,2f,40,7b,72,6e,fc,fc,93,14,\
+  bf,1e,72,49,0f,14,b2,17,bd,7d,79,30,d8,62,51,3f,04,02,1e,ba,5a,eb,51,78,74,\
+  d2,81,60,b7,05,68,ae,4d,85,b8,eb,36,44,1d,59,ba,f0,9a,ae,e2,ac,b7,0d,1e,27,\
+  7e,83,b3,5e,56,10,88,07,d1,d6,2d,42,7d,73,1f,ca,6b,b8,46,05,bc,5c,cb,e1,c2,\
+  33,61,b6,ba,b8,7b,62,1c,8b,af,c3,9e,90,4a,6c,f0,2d,a4,ef,7c,16,ac,1d,92,31,\
+  cf,2e,1a,66,53,8e,e8,0b,d0,be,69,3c,6c,32,bd,f9,fc,54,71,6b,f4,62,70,23,ad,\
+  20,ca,da,0a,65,4f,e5,f3,bb,4f,a7,ab,a1,08,8d,31,9b,50,17,32,17,a5,c1,d6,60,\
+  fb,4c,e1,dd,73,22,63,83,5c,17,2f,39,e3,65,43,ef,f9,73,e0,b4,6e,92,2e,3b,d6,\
+  4c,80,db,e6,39,d8,fd,e3,64,dd,c2,d7,d4,c6,c7,e3,86,1e,14,3f,6a,37,2a,40,5b,\
+  cb,37,81,67,c2,ec,f3,f3,1d,6e,62,d6,e6,6c,4c,b6,4d,86,c5,f2,4b,9a,de,7f,30,\
+  3b,08,23,a7,1e,35,2e,a0,c1,97,98,55,ed,27,ae,35,9e,04,4f,7d,08,9a,5c,e8,6d,\
+  2e,c9,46,53,03,a9,88,87,87,c7,67,a2,66,27,c1,a3,03,04,45,bb,08,ee,39,12,bb,\
+  3c,27,c2,1a,fa,24,c8,80,69,07,b3,e8,bd,bc,f0,d5,3c,ed,45,e9,93,4e,e4,95,b5,\
+  18,15,a0,ad,e5,9b,c0,bf,6d,5e,08,f0,23,a4,fa,20,31,ab,38,c4,da,5b,ee,c7,1a,\
+  28,71,24,a8,0d,fa,92,16,20,87,a0,b7,1d,97,1d,cc,c1,de,42,50,ec,c9,ea,2d,70,\
+  65,d9,e5,ed,22,84,16,a0,37,b4,02,b4,0f,3b,c6,f2,3a,01,ef,0a,de,90,00,52,e1,\
+  c7,22,f7,f7,12,cb,ea,a8,1f,fc,25,ed,55,74,07,d4,5c,95,4a,c5,6d,e0,94,95,46,\
+  7b,2d,3f,70,d5,9e,98,3f,70,a3,e1,8d,08,60,c0,86,9b,77,05,fa,ba,fc,03,da,3d,\
+  f7,20,f5,8b,8b,64,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\1]
+"State"=dword:ffffffff
+"ID"=dword:00000001
+"Name"="Ejecutar script resaltado"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\10]
+"State"=dword:ffffffff
+"ID"=dword:23bb6d00
+"Name"="Unpack Multiple Archives"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\2]
+"State"=dword:ffffffff
+"ID"=dword:00000002
+"Name"="Abrir menú de script"
+"HotKey"=dword:00000341
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\3]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\4]
+"State"=dword:ffffffff
+"ID"=dword:0ccb5b00
+"Name"="Convert Images"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\5]
+"State"=dword:ffffffff
+"ID"=dword:1797e000
+"Name"="Count Lines"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\6]
+"State"=dword:ffffffff
+"ID"=dword:79d13200
+"Name"="Launch Elevated Command Prompt"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\7]
+"State"=dword:ffffffff
+"ID"=dword:4e1cc200
+"Name"="Make Link"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\8]
+"State"=dword:ffffffff
+"ID"=dword:276fa200
+"Name"="Make List (JScript)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\6\Menu\9]
+"State"=dword:ffffffff
+"ID"=dword:0fe6ea00
+"Name"="Make List (VBScript)"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\7]
+"Name"="Suma de comprobación"
+"DLL"="checksum\\checksum.spl"
+"Version"="2.2"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"=""
+"Description"="Verificador y calculador de sumas SFV, MD5, SHA-1, SHA-256 y SHA-512."
+"Configuration Key"="Checksum"
+"FS Name"=""
+"Functions"=dword:00000030
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,00,7d,49,44,41,54,78,9c,95,\
+  92,cb,0d,00,21,08,44,39,58,f8,9e,ec,81,6e,e8,0c,83,1b,36,2b,f8,19,35,a3,07,\
+  99,e7,44,24,25,a5,5a,ab,22,b2,da,38,c9,01,a7,21,22,53,08,08,e0,0e,b0,11,21,\
+  00,80,fb,5a,4a,19,04,02,38,ed,96,04,04,8c,66,7a,e8,7b,8b,0d,20,df,e8,e6,17,\
+  b0,4d,b0,37,43,09,bc,68,65,3e,26,f8,17,cf,cc,50,82,a8,8b,2e,ac,63,c3,09,62,\
+  cb,2e,ff,c1,bc,0b,70,02,3b,40,95,00,f1,9f,23,72,40,03,1a,6b,bf,de,d9,2e,02,\
+  93,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\7\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\7\Menu\1]
+"State"=dword:00010012
+"ID"=dword:00000002
+"Name"="&Verificando sumas de comprobación..."
+"HotKey"=dword:00000356
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\7\Menu\2]
+"State"=dword:01b00002
+"ID"=dword:00000001
+"Name"="&Calcular sumas de comprobación..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\8]
+"Name"="Comprobar versión"
+"DLL"="checkver\\checkver.spl"
+"Version"="1.26"
+"Copyright"="Copyright © 2000-2019 ALTAP"
+"Extensions"=""
+"Description"="Comprobar actualizaciones de Altap Salamander y plugins."
+"Configuration Key"="CHECKVER"
+"FS Name"=""
+"Functions"=dword:00000030
+"Load On Start"=dword:00000001
+"HomePage"="www.altap.cz"
+"PluginIconList"=hex:89,50,4e,47,0d,0a,1a,0a,00,00,00,0d,49,48,44,52,00,00,00,\
+  10,00,00,00,10,08,06,00,00,00,1f,f3,ff,61,00,00,01,66,49,44,41,54,78,9c,7d,\
+  93,b1,91,02,31,0c,45,15,10,10,90,90,50,00,19,b1,3a,20,a7,0d,b5,40,4a,44,09,\
+  3b,e3,8c,80,b9,02,b6,02,e2,1b,e7,44,74,70,c1,75,a0,d3,ff,8b,cc,c2,c2,8d,e7,\
+  83,2d,a4,27,59,16,e2,f2,bc,76,bb,9d,43,af,f6,4f,eb,e9,70,3c,1e,c3,22,14,f6,\
+  b0,5d,2e,17,87,3e,02,fa,be,f7,eb,f5,ea,af,80,ae,eb,68,53,d5,7f,2b,92,ed,76,\
+  eb,9b,cd,a6,39,2c,16,0b,5f,2e,97,3c,03,b2,5e,af,bd,d4,4a,d5,1f,9f,80,f8,b1,\
+  df,ef,7d,b5,5a,31,f3,6c,36,a3,00,c2,59,4d,dd,aa,ba,16,75,29,d5,ad,3c,43,da,\
+  06,57,01,28,03,51,55,a9,c5,23,6f,7c,9b,6b,08,00,b1,1a,b0,e2,13,40,ae,ac,04,\
+  d7,48,80,45,00,2a,21,e0,70,08,88,d2,36,01,e0,8e,a2,d6,1a,a9,2a,e1,a8,84,45,\
+  37,07,01,74,c0,d5,6c,0a,f8,fa,fe,65,89,f3,f9,bc,41,d0,0f,d8,24,12,b2,3a,93,\
+  01,12,80,d3,e9,fc,08,c6,5b,c3,01,d9,d0,87,84,b0,27,a8,96,d2,3b,40,08,d0,e8,\
+  68,03,a0,81,2c,df,ea,43,28,59,e4,5e,7a,da,8d,15,20,d8,c6,00,0c,4b,73,54,38,\
+  3a,f7,d9,d4,01,ee,fc,0d,f7,57,2d,9c,d6,06,b8,dd,6e,1c,59,bc,33,01,a9,c8,c6,\
+  3e,44,74,da,14,4f,a9,6f,9a,d8,de,d6,46,00,bd,03,22,e3,10,ec,cc,9e,a3,fe,16,\
+  10,53,3b,34,48,94,d2,0c,64,e6,47,f0,47,40,2e,cc,bf,95,4a,18,94,ff,d0,f1,fa,\
+  03,87,ce,fe,95,3a,db,83,4d,00,00,00,00,49,45,4e,44,ae,42,60,82
+"PluginIconIndex"=dword:00000000
+"SubmenuIconIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\8\Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\8\Menu\1]
+"State"=dword:00010001
+"ID"=dword:0000005a
+"Name"="&Comprobar nuevas versiones..."
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins\9]
+"Name"="Visor de bases de datos"
+"DLL"="dbviewer\\dbviewer.spl"
+"Version"="1.23"
+"Copyright"="Copyright © 2003-2019 ALTAP"
+"Extensions"=""
+"Description"="Ficheros de bases de datos Display dBase, FoxPro y CSV."
+"Configuration Key"="DBVIEWER"
+"FS Name"=""
+"Functions"=dword:00000070
+"HomePage"="www.altap.cz"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\7zip]
+"Version"=dword:00000003
+"Show Extended Options"=dword:00000001
+"Extended List Info"=dword:00000000
+"List Info Packed Size"=dword:00000000
+"List Info Method"=dword:00000000
+"Column PackedSize FixedWidth"=dword:00000000
+"Column PackedSize Width"=dword:00000000
+"Column Method FixedWidth"=dword:00000000
+"Column Method Width"=dword:00000000
+"Compression Level"=dword:00000005
+"Compression Method"=dword:00000000
+"Dictionary Size"=dword:00004000
+"Word Size"=dword:00000020
+"Solid Archive"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation]
+"Version"=dword:00000001
+"EnableDebugger"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Directories]
+"1"="$[AppData]\\Altap\\Altap Salamander\\Automation\\scripts"
+"2"="$[AllUsersProfile]\\Altap\\Altap Salamander\\Automation\\scripts"
+"3"="$(SalDir)\\plugins\\automation\\scripts"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\0CCB5B]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Convert Images.js"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\0FE6EA]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Make List (VBScript).vbs"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\1797E0]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Count Lines.js"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\23BB6D]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Unpack Multiple Archives.js"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\276FA2]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Make List (JScript).js"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\4E1CC2]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Make Link.js"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Automation\Scripts\79D132]
+"00"="$(SalDir)\\plugins\\automation\\scripts\\Launch Elevated Command Prompt.vbs"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Checksum]
+"Version"=dword:00000001
+"Hash Type"=dword:00000001
+"Dialog Size 1"=hex:96,02,00,00,2d,01,00,00,e6,00,00,00,50,00,00,00,50,00,00,\
+  00,e5,00,00,00,17,01,00,00,ae,01,00,00,5c,03,00,00
+"Dialog Size 2"=hex:b1,01,00,00,2d,01,00,00,e6,00,00,00,50,00,00,00,50,00,00,\
+  00
+"CRC"=dword:00000001
+"MD5"=dword:00000001
+"SHA1"=dword:00000001
+"SHA256"=dword:00000001
+"SHA512"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\CHECKVER]
+"Version"=dword:00000004
+"AutoCheckMode"=dword:00000002
+"AutoConnect"=dword:00000001
+"AutoClose"=dword:00000001
+"CheckBetaVersions"=dword:00000001
+"CheckPBVersions"=dword:00000000
+"CfgOfPB"=dword:00000000
+"CheckReleaseVersions"=dword:00000001
+"IneternetConnection"=dword:00000001
+"InternetProtocol"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\CHECKVER\Filters]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\DBVIEWER]
+"Version"=dword:00000000
+"Use Custom Font"=dword:00000000
+"LogFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,53,65,67,6f,65,20,55,49,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SavePosition"=dword:00000000
+"WindowPlacement"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Auto Select"=dword:00000001
+"Default Coding"=""
+"CSV Text Qualifier"=dword:00000000
+"CSV Value Separator"=dword:00000000
+"CSV Value Separator Char"=dword:00000000
+"CSV First Row As Name"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\DBVIEWER\Find History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\DISKMAP]
+"Confirm ESC Close"=dword:00000001
+"Highlight Folders"=dword:00000001
+"Display Tooltip"=dword:00000001
+"Tooltip Path Format"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Encrypt & Decrypt]
+"Version"=dword:00000003
+"SF Method"=dword:00000001
+"CFS Method"=dword:00000002
+"TFS Method"=dword:00000001
+"SF Random Passes"=dword:00000001
+"CFS Random Passes"=dword:00000001
+"TFS Random Passes"=dword:00000001
+"Hash"=hex:02
+"Cipher"=hex:03
+"Compression"=hex:09
+"Mode"=hex:01
+"Hide Typing"=dword:00000001
+"Clear Cluster Tips"=dword:00000001
+"Clear FAT Directories"=dword:00000001
+"Shred Temporary Files"=dword:00000001
+"Temp Dir"="C:\\Users\\ALEXIS~1\\AppData\\Local\\Temp\\SalEncTemp"
+"Last Key"=""
+"Use Key Password"=dword:00000001
+"Use Key File"=dword:00000000
+"Dont Show Small Files Warning"=dword:00000000
+"Dont Ask Open On SSD"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\File Comparator]
+"Version"=dword:00000008
+"Configuration"=hex:01,00,00,00,02,00,00,00,08,00,00,00,f0,ff,ff,ff,00,00,00,\
+  00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,01,43,6f,6e,73,\
+  6f,6c,61,73,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,01,00,00,00,b7,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+"Colors"=hex:00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,e3,e3,\
+  e3,01,e3,e3,e3,01,e3,e3,e3,01,f0,f0,f0,01,f0,f0,f0,01,a0,a0,a0,01,a0,a0,a0,\
+  01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,ff,ff,ff,00,\
+  ff,ff,ff,00,ff,ff,ff,01,eb,eb,eb,01,eb,eb,eb,01,bf,df,ff,01,ff,cc,cc,01,0a,\
+  80,f0,00,ff,78,78,00,a0,a0,a0,01,a0,a0,a0,01,ff,ff,ff,01,00,00,00,01
+"Custom Colors"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Force Text"=dword:00000000
+"Force Binary"=dword:00000000
+"Ignore Space Change"=dword:00000000
+"Ignore All Space"=dword:00000000
+"Ignore Line Breaks Changes"=dword:00000000
+"Ignore Case"=dword:00000000
+"EOL Conversion 0"=dword:00000007
+"EOL Conversion 1"=dword:00000007
+"Encoding 0"=dword:00000000
+"Encoding 1"=dword:00000000
+"Endians 0"=dword:00000000
+"Endians 1"=dword:00000000
+"InputEnc 0"=dword:00000000
+"InputEnc 1"=dword:00000000
+"InputEnc Table 0"=""
+"InputEnc Table 1"=""
+"Normalization Form"=dword:00000001
+"Rebar Bands Layout"=hex:ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00
+"Last Configuration Page"=dword:00000000
+"Load On Start"=dword:00000000
+"Horizontal View"=dword:00000000
+"Auto-Copy Selection"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP]
+"Version"=dword:00000025
+"Last Config Page"=dword:00000000
+"Show Welcome Message"=dword:00000001
+"Priority to Panel Connections"=dword:00000001
+"Enable Total Speed Limit"=dword:00000000
+"Total Speed Limit"="2"
+"Anonymous Password"="name@someserver.com"
+"Passive Mode"=dword:00000000
+"Keep Alive"=dword:00000001
+"Compress Data"=dword:00000000
+"Max. Connections"=dword:ffffffff
+"Speed Limit"="-1"
+"Use Listings Cache"=dword:00000001
+"Transfer Mode"=dword:00000002
+"ASCII File Masks"="*.txt;*.*htm;*.*html;*.pl;*.php;*.php3;*.asp;*.cgi;*.css;*.bat;*.tcl;*.diz;*.nfo;*.ini;*.mak;*.cpp;*.c;*.h;*.bas;*.pas;*.tex;*.log"
+"Server Replies Timeout"=dword:0000001e
+"No Data Transfer Timeout"=dword:0000012c
+"Delay Connect Retries"=dword:00000014
+"Connect Attempts"=dword:0000003c
+"Resume Overlap"=dword:00000400
+"Resume Min File Size"=dword:00008000
+"Keep Alive - Every"=dword:0000005a
+"Keep Alive - Stop After"=dword:0000001e
+"Keep Alive - Command"=dword:00000000
+"Mem Cache Max Size"=dword:00400000
+"Download Add To Queue"=dword:00000000
+"Delete Add To Queue"=dword:00000000
+"ChngAttr Add To Queue"=dword:00000000
+"If Cannot Create File"=dword:00000000
+"If Cannot Create Dir"=dword:00000000
+"If File Already Exists"=dword:00000000
+"If Dir Already Exists"=dword:00000002
+"If Retry On Created"=dword:00000003
+"If Retry On Resumed"=dword:00000002
+"If Ascii Mode For Binary File"=dword:00000000
+"If Unknown Attrs"=dword:00000000
+"If Directory Is Not Empty"=dword:00000001
+"If File Is Hidden"=dword:00000000
+"If Dir Is Hidden"=dword:00000001
+"Upload - If Cannot Create File"=dword:00000000
+"Upload - If Cannot Create Dir"=dword:00000000
+"Upload - If File Already Exists"=dword:00000000
+"Upload - If Dir Already Exists"=dword:00000002
+"Upload - If Retry On Created"=dword:00000003
+"Upload - If Retry On Resumed"=dword:00000002
+"Upload - If Ascii Mode For Binary File"=dword:00000000
+"Last Bookmark"=dword:00000000
+"Default Proxy UID"=dword:ffffffff
+"Always Detach"=dword:00000000
+"Always Disconnect"=dword:00000000
+"Enable Logging"=dword:00000001
+"Log Max. Size"=dword:00000032
+"Max. Closed Connections Logs"=dword:0000000a
+"Always Show Panel Log"=dword:00000001
+"Disable Log for Operations"=dword:00000000
+"Logs Position"=""
+"OperDlg Position"=""
+"OperDlg Split Pos."=dword:0000c350
+"Send Secret Command"=dword:00000000
+"Always Reconnect"=dword:00000000
+"Connection Lost Message"=dword:00000001
+"List Hidden Files Hint"=dword:00000001
+"Always Overwrite"=dword:00000000
+"Convert Hex-esc-sequences"=dword:00000001
+"Close OperDlg If Successfully Finished"=dword:00000001
+"Open SolveErrDlg If Idle"=dword:00000001
+"Simple Listing Fixed Column Width"=dword:00000000
+"Simple Listing Column Width"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Bookmarks]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Bookmarks\1]
+"Name"="ALTAP"
+"Address"="ftp.altap.cz"
+"Initial Path"="/pub/altap/salamand"
+"Anonymous"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Command History]
+"1"="HELP"
+"2"="CDUP"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Host Address History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Init Path History]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Proxy Servers]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\1]
+"Name"="UNIX1"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>),|  white_spaces(), year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), month_3(<date>),|  white_spaces(), day(<date>), white_spaces(), year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), month_3(<date>),|  white_spaces(), day(<date>), white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"),|  unix_link(<is_dir>, <name>, <link>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), month_3(<date>), white_spaces(),|  day(<date>), white_spaces(), year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), month_3(<date>), white_spaces(),|  day(<date>), white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip first line \"total ????\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\1\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,link,12,\\0,12,\\0,7,\\0,1,0,0"
+"9"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"10"="1,group,8,\\0,8,\\0,7,\\0,1,0,0"
+"11"="0,device,9,\\0,9,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\10]
+"Name"="VMS2"
+"Autodetect Condition"="syst_contains(\" VMS \")"
+"Rules For Parsing"="# parse lines with directories|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), number(<blksize>),|  all(1), number(<allocblks>), white_spaces(), day(<date>), all(1),|  month_3(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  all_to(\"[\"), all_up_to(<user>, \"]\"), all_to(\"(\"), all_up_to(<rights>, \")\");||# parse lines with directories with corrupted user string|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), number(<blksize>),|  all(1), number(<allocblks>), white_spaces(), day(<date>), all(1),|  month_3(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  all_to(\"[\"), all_up_to(<user>, \"(\"), cut_white_spaces_end(<user>),|  all_up_to(<rights>, \")\");||# parse lines with files|* word(<name>), white_spaces_and_line_ends(), number(<blksize>),|  all(1), number(<allocblks>), white_spaces(), day(<date>), all(1),|  month_3(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  all_to(\"[\"), all_up_to(<user>, \"]\"), all_to(\"(\"), all_up_to(<rights>, \")\");||# parse lines with files with corrupted user string|* word(<name>), white_spaces_and_line_ends(), number(<blksize>),|  all(1), number(<allocblks>), white_spaces(), day(<date>), all(1),|  month_3(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  all_to(\"[\"), all_up_to(<user>, \"(\"), cut_white_spaces_end(<user>),|  all_up_to(<rights>, \")\");||# skip first line e.g. \"Directory ???:[???]\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip last line e.g. \"Total of ??? files, ??? blocks.\"|* if(last_nonempty_line), if(first_nonempty_line == false), rest_of_line();||# skip last line containing \"Total of ???\"|* if(last_nonempty_line), skip_white_spaces(), if(next_word eq \"Total\"),|  word(), skip_white_spaces(), if(next_word eq \"of\"), rest_of_line();||# parse lines with inaccessible directories (based on char \"%\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), if(next_char==\"%\"), rest_of_line(<rights>);||# parse lines with inaccessible directories (based on word \"privilege\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), all_to(<rights>, \"privilege\"),|  add_string_to_column(<rights>, rest_of_line), rest_of_line();||# parse lines with inaccessible files (based on char \"%\")|* word(<name>), white_spaces_and_line_ends(), if(next_char==\"%\"),|  rest_of_line(<rights>);||# parse lines with inaccessible files (based on word \"privilege\")|* word(<name>), white_spaces_and_line_ends(), all_to(<rights>, \"privilege\"),|  add_string_to_column(<rights>, rest_of_line), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\10\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,blksize,10,\\0,10,\\0,10,\\0,0,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"9"="1,allocblks,11,\\0,11,\\0,10,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\11]
+"Name"="VMS3"
+"Autodetect Condition"="syst_contains(\" VMS \")"
+"Rules For Parsing"="# parse lines with directories|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), day(<date>), all(1),|  month_3(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  white_spaces(), positive_number(<size>), all(1), number(<blksize>), all_to(\"(\"),|  all_up_to(<rights>, \")\");||# parse lines with files|* word(<name>), white_spaces_and_line_ends(), day(<date>),|  all(1), month_3(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  white_spaces(), positive_number(<size>), all(1), number(<blksize>), all_to(\"(\"),|  all_up_to(<rights>, \")\");||# skip first line e.g. \"Directory ???:[???]\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip last line e.g. \"Total of ??? files, ??? blocks.\"|* if(last_nonempty_line), if(first_nonempty_line == false), rest_of_line();||# skip last line containing \"Total of ???\"|* if(last_nonempty_line), skip_white_spaces(), if(next_word eq \"Total\"),|  word(), skip_white_spaces(), if(next_word eq \"of\"), rest_of_line();||# parse lines with inaccessible directories (based on char \"%\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), if(next_char==\"%\"), rest_of_line(<rights>);||# parse lines with inaccessible directories (based on word \"privilege\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), all_to(<rights>, \"privilege\"),|  add_string_to_column(<rights>, rest_of_line), rest_of_line();||# parse lines with inaccessible files (based on char \"%\")|* word(<name>), white_spaces_and_line_ends(), if(next_char==\"%\"),|  rest_of_line(<rights>);||# parse lines with inaccessible files (based on word \"privilege\")|* word(<name>), white_spaces_and_line_ends(), all_to(<rights>, \"privilege\"),|  add_string_to_column(<rights>, rest_of_line), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\11\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,blksize,10,\\0,10,\\0,10,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\12]
+"Name"="VMS4"
+"Autodetect Condition"="syst_contains(\" VMS \")"
+"Rules For Parsing"="# parse lines with directories|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), number(<blksize>),|  white_spaces(), day(<date>), all(1), month_3(<date>), all(1),|  year(<date>), white_spaces(), time(<time>);||# parse lines with files|* word(<name>), white_spaces_and_line_ends(), number(<blksize>),|  white_spaces(), day(<date>), all(1), month_3(<date>),|  all(1), year(<date>), white_spaces(), time(<time>);||# skip first line e.g. \"Directory ???:[???]\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip last line e.g. \"Total of ??? files, ??? blocks.\"|* if(last_nonempty_line), if(first_nonempty_line == false), rest_of_line();||# skip last line containing \"Total of ???\"|* if(last_nonempty_line), skip_white_spaces(), if(next_word eq \"Total\"),|  word(), skip_white_spaces(), if(next_word eq \"of\"), rest_of_line();||# parse lines with inaccessible directories (based on char \"%\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), if(next_char==\"%\"), rest_of_line();||# parse lines with inaccessible directories (based on word \"privilege\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), all_to(\"privilege\"), rest_of_line();||# parse lines with inaccessible files (based on char \"%\")|* word(<name>), white_spaces_and_line_ends(), if(next_char==\"%\"),|  rest_of_line();||# parse lines with inaccessible files (based on word \"privilege\")|* word(<name>), white_spaces_and_line_ends(), all_to(\"privilege\"),|  rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\12\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,blksize,10,\\0,10,\\0,10,\\0,0,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\13]
+"Name"="NetPresenz"
+"Autodetect Condition"="welcome_contains(\" NetPresenz \") and syst_contains(\" MACOS \")"
+"Rules For Parsing"="# parse lines with files|* if(next_char\\!=\"d\"), all(<rights>, 10), white_spaces(), word(),|  white_spaces(), word(), white_spaces(), positive_number(<size>),|  white_spaces(), month_3(<date>), white_spaces(),|  day(<date>), white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), rest_of_line(<name>);||# parse lines with directories|* if(next_char==\"d\"), assign(<is_dir>, true), all(<rights>, 10), white_spaces(),|  word(), white_spaces(), positive_number(<size>), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1), rest_of_line(<name>);||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\13\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\14]
+"Name"="IBM z/VM (CMS) 1"
+"Autodetect Condition"=""
+"Rules For Parsing"="# parse lines with directories|* word(<name>), all_to(\" DIR\"), assign(<is_dir>, true), white_spaces(),|  word(), white_spaces(), word(), white_spaces(), word(), white_spaces(),|  year(<date>), all(1), month(<date>), all(1), day(<date>),|  white_spaces(), time(<time>), white_spaces(), word();||# parse lines with files|* word(<name>), white_spaces(), add_string_to_column(<name>, \".\"),|  add_string_to_column(<name>, next_word), word(), white_spaces(),|  word(<format>), white_spaces(), number(<lrecl>), white_spaces(),|  number(<records>), white_spaces(), number(<blocks>), white_spaces(),|  year(<date>), all(1), month(<date>), all(1), day(<date>),|  white_spaces(), time(<time>), white_spaces(), word();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\14\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,5,\\0,5,\\0,2,\\0,1,0,0"
+"3"="1,format,13,\\0,13,\\0,7,\\0,1,0,0"
+"4"="1,lrecl,14,\\0,14,\\0,10,\\0,0,0,0"
+"5"="1,records,15,\\0,15,\\0,10,\\0,0,0,0"
+"6"="1,blocks,10,\\0,10,\\0,10,\\0,0,0,0"
+"7"="1,date,3,\\0,3,\\0,8,\\0,1,0,0"
+"8"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\15]
+"Name"="IBM z/VM (CMS) 2"
+"Autodetect Condition"=""
+"Rules For Parsing"="# parse lines with directories|* word(<name>), all_to(\" DISK\"), assign(<is_dir>, true), white_spaces(),|  word(<format>), white_spaces(), number(<lrecl>), white_spaces(),|  number(<records>), white_spaces(), number(<blocks>), white_spaces(),|  month(<date>), all(1), day(<date>), all(1), year(<date>),|  white_spaces(), time(<time>), white_spaces(), word(<user>);||# parse lines with files|* word(<name>), white_spaces(), add_string_to_column(<name>, \".\"),|  add_string_to_column(<name>, next_word), word(), white_spaces(),|  word(<format>), white_spaces(), number(<lrecl>), white_spaces(),|  number(<records>), white_spaces(), number(<blocks>), white_spaces(),|  month(<date>), all(1), day(<date>), all(1), year(<date>),|  white_spaces(), time(<time>), white_spaces(), word(<user>);||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\15\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,5,\\0,5,\\0,2,\\0,1,0,0"
+"3"="1,format,13,\\0,13,\\0,7,\\0,1,0,0"
+"4"="1,lrecl,14,\\0,14,\\0,10,\\0,0,0,0"
+"5"="1,records,15,\\0,15,\\0,10,\\0,0,0,0"
+"6"="1,blocks,10,\\0,10,\\0,10,\\0,0,0,0"
+"7"="1,date,3,\\0,3,\\0,8,\\0,1,0,0"
+"8"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"9"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\16]
+"Name"="IBM z/VM (CMS) 3"
+"Autodetect Condition"="syst_contains(\"z/VM\")"
+"Rules For Parsing"="# parse lines with directories|* word(<name>), white_spaces(), word(<fm>), all_to(\" DIR\"),|  assign(<is_dir>, true), white_spaces(), word(), white_spaces(),|  word(), white_spaces(), word(), white_spaces(), month(<date>),|  all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>);||# parse lines with files|* word(<name>), white_spaces(), add_string_to_column(<name>, \".\"),|  add_string_to_column(<name>, next_word), word(), white_spaces(),|  word(<fm>), white_spaces(), word(<format>), white_spaces(),|  number(<lrecl>), white_spaces(), number(<records>), white_spaces(),|  number(<blocks>), white_spaces(), month(<date>), all(1),|  day(<date>), all(1), year(<date>), white_spaces(), time(<time>);||# skip first line \"Filename FileType Fm ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"Filename\"), word(),|  skip_white_spaces(), if (next_word eq \"FileType\"), word(), skip_white_spaces(),|  if (next_word eq \"Fm\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\16\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,5,\\0,5,\\0,2,\\0,1,0,0"
+"3"="1,fm,16,\\0,16,\\0,7,\\0,1,0,0"
+"4"="1,format,13,\\0,13,\\0,7,\\0,1,0,0"
+"5"="1,lrecl,14,\\0,14,\\0,10,\\0,0,0,0"
+"6"="1,records,15,\\0,15,\\0,10,\\0,0,0,0"
+"7"="1,blocks,10,\\0,10,\\0,10,\\0,0,0,0"
+"8"="1,date,3,\\0,3,\\0,8,\\0,1,0,0"
+"9"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\17]
+"Name"="MVS1"
+"Autodetect Condition"="syst_contains(\" MVS \")"
+"Rules For Parsing"="# data sets|* word(<volume>), white_spaces(), word(<unit>), white_spaces(), year(<date>),|  all(1), month(<date>), all(1), day(<date>), white_spaces(), number(<extents>),|  white_spaces(), number(<used>), white_spaces(), word(<recfm>), white_spaces(),|  number(<lrecl>), white_spaces(), number(<blksz>), white_spaces(),|  word(<dsorg>), assign(<is_dir>, <dsorg> eq \"PO\"), white_spaces(), word(<name>);||# data sets with \"**NONE**\" date|* word(<volume>), white_spaces(), word(<unit>), white_spaces(),|  if(next_word eq \"**NONE**\"), word(), white_spaces(), number(<extents>),|  white_spaces(), number(<used>), white_spaces(), word(<recfm>),|  white_spaces(), number(<lrecl>), white_spaces(), number(<blksz>),|  white_spaces(), word(<dsorg>), assign(<is_dir>, <dsorg> eq \"PO\"),|  white_spaces(), word(<name>);||# \"Migrated\" data sets|* if(next_word eq \"Migrated\"), word(<unit>), white_spaces(),|  word(<name>);||# \"MIGRAT\" lines|* if(next_word eq \"MIGRAT\"), all(<unit>, 55), white_spaces(),|  cut_white_spaces_end(<unit>), word(<name>);||# \"ARCIVE\" lines|* if(next_word eq \"ARCIVE\"), all(<unit>, 55), white_spaces(),|  cut_white_spaces_end(<unit>), word(<name>);||# data sets with joined numbers from \"Ext\" and \"Used\" columns|* word(<volume>), white_spaces(), word(<unit>), white_spaces(), year(<date>),|  all(1), month(<date>), all(1), day(<date>), white_spaces(), word(),|  white_spaces(), word(<recfm>), white_spaces(), number(<lrecl>), white_spaces(),|  number(<blksz>), white_spaces(), word(<dsorg>), assign(<is_dir>, <dsorg> eq \"PO\"),|  white_spaces(), word(<name>);||# data sets with \"**NONE**\" date and with joined numbers from \"Ext\" and \"Used\" columns|* word(<volume>), white_spaces(), word(<unit>), white_spaces(),|  if(next_word eq \"**NONE**\"), word(), white_spaces(), word(), white_spaces(),|  word(<recfm>), white_spaces(), number(<lrecl>), white_spaces(), number(<blksz>),|  white_spaces(), word(<dsorg>), assign(<is_dir>, <dsorg> eq \"PO\"),|  white_spaces(), word(<name>);||# \"Pseudo directories\"|* if(next_word eq \"Pseudo\"), word(), white_spaces(1), if(next_word eq \"Directory\"),|  assign(<is_dir>, true), word(), white_spaces(), word(<name>);||# \"Error determining attributes\"|* if(next_word eq \"Error\"), word(), white_spaces(1), if(next_word eq \"determining\"),|  word(), white_spaces(1), if(next_word eq \"attributes\"), word(), white_spaces(),|  assign(<unit>, \"Error determining attributes\"), word(<name>);||# Volume + \"Error determining attributes\"|* word(<volume>), white_spaces(), if(next_word eq \"Error\"), word(),|  white_spaces(1), if(next_word eq \"determining\"), word(), white_spaces(1),|  if(next_word eq \"attributes\"), word(), white_spaces(),|  assign(<unit>, \"Error determining attributes\"), word(<name>);||# Volume + \"Not Mounted\"|* word(<volume>), white_spaces(), if(next_word eq \"Not\"), word(),|  white_spaces(1), if(next_word eq \"Mounted\"), word(), white_spaces(),|  assign(<unit>, \"Not Mounted\"), word(<name>);||# Volume + Unit + \"<\" + any error message + \" > \" + Dsname|* all(<volume>, 6), white_spaces(1), all(<unit>, 6), white_spaces(),|  if(next_word == \"<\"), all_to(<name>, \" > \"), cut_white_spaces(<volume>),|  cut_white_spaces(<unit>), add_string_to_column(<unit>, \" \"),|  add_string_to_column(<unit>, <name>), cut_white_spaces_end(<unit>),|  skip_white_spaces(), word(<name>);||# optional columns: Volume + Unit + Recfm + Dsorg; Dsname is necessary|* all(<volume>, 6), white_spaces(1), all(<unit>, 6), white_spaces(20),|  all(<recfm>, 5), white_spaces(12), all(<dsorg>, 5), white_spaces(),|  word(<name>), cut_white_spaces(<volume>), cut_white_spaces(<unit>),|  cut_white_spaces(<recfm>), cut_white_spaces(<dsorg>);||# skip first line \"Volume Unit Referred ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"Volume\"), word(),|  skip_white_spaces(), if (next_word eq \"Unit\"), word(), skip_white_spaces(),|  if (next_word eq \"Referred\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\17\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,dsorg,23,\\0,23,\\0,7,\\0,1,0,0"
+"3"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"4"="1,volume,17,\\0,17,\\0,7,\\0,1,0,0"
+"5"="1,unit,18,\\0,18,\\0,7,\\0,1,0,0"
+"6"="1,extents,19,\\0,19,\\0,10,\\0,0,0,0"
+"7"="1,used,20,\\0,20,\\0,10,\\0,0,0,0"
+"8"="1,recfm,21,\\0,21,\\0,7,\\0,1,0,0"
+"9"="1,lrecl,14,\\0,14,\\0,10,\\0,0,0,0"
+"10"="1,blksz,22,\\0,22,\\0,10,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\18]
+"Name"="MVS2"
+"Autodetect Condition"="syst_contains(\" MVS \")"
+"Rules For Parsing"="# data sets|* word(<volume>), white_spaces(), word(<unit>), white_spaces(), month(<date>),|  all(1), day(<date>), all(1), year(<date>), white_spaces(), number(<extents>),|  white_spaces(), number(<used>), white_spaces(), word(<recfm>), white_spaces(),|  number(<lrecl>), white_spaces(), number(<blksz>), white_spaces(),|  word(<dsorg>), assign(<is_dir>, <dsorg> eq \"PO\"), white_spaces(), word(<name>);||# data sets with \"**NONE**\" date|* word(<volume>), white_spaces(), word(<unit>), white_spaces(),|  if(next_word eq \"**NONE**\"), word(), white_spaces(), number(<extents>),|  white_spaces(), number(<used>), white_spaces(), word(<recfm>),|  white_spaces(), number(<lrecl>), white_spaces(), number(<blksz>),|  white_spaces(), word(<dsorg>), assign(<is_dir>, <dsorg> eq \"PO\"),|  white_spaces(), word(<name>);||# \"Migrated\" data sets|* if(next_word eq \"Migrated\"), word(<unit>), white_spaces(),|  word(<name>);||# \"MIGRAT\" lines|* if(next_word eq \"MIGRAT\"), all(<unit>, 53), white_spaces(),|  cut_white_spaces_end(<unit>), word(<name>);||# \"ARCIVE\" lines|* if(next_word eq \"ARCIVE\"), all(<unit>, 53), white_spaces(),|  cut_white_spaces_end(<unit>), word(<name>);||# \"Pseudo directories\"|* if(next_word eq \"Pseudo\"), word(), white_spaces(1), if(next_word eq \"Directory\"),|  assign(<is_dir>, true), word(), white_spaces(), word(<name>);||# \"Error determining attributes\"|* if(next_word eq \"Error\"), word(), white_spaces(1), if(next_word eq \"determining\"),|  word(), white_spaces(1), if(next_word eq \"attributes\"), word(), white_spaces(),|  assign(<unit>, \"Error determining attributes\"), word(<name>);||# Volume + \"Error determining attributes\"|* word(<volume>), white_spaces(), if(next_word eq \"Error\"), word(),|  white_spaces(1), if(next_word eq \"determining\"), word(), white_spaces(1),|  if(next_word eq \"attributes\"), word(), white_spaces(),|  assign(<unit>, \"Error determining attributes\"), word(<name>);||# Volume + \"Not Mounted\"|* word(<volume>), white_spaces(), if(next_word eq \"Not\"), word(),|  white_spaces(1), if(next_word eq \"Mounted\"), word(), white_spaces(),|  assign(<unit>, \"Not Mounted\"), word(<name>);||# Volume + Unit + \"<\" + any error message + \" > \" + Dsname|* all(<volume>, 6), white_spaces(1), all(<unit>, 4), white_spaces(),|  if(next_word == \"<\"), all_to(<name>, \" > \"), cut_white_spaces(<volume>),|  cut_white_spaces(<unit>), add_string_to_column(<unit>, \" \"),|  add_string_to_column(<unit>, <name>), cut_white_spaces_end(<unit>),|  skip_white_spaces(), word(<name>);||# optional columns: Volume + Unit + Recfm + Dsorg; Dsname is necessary|* all(<volume>, 6), white_spaces(1), all(<unit>, 4), white_spaces(19),|  all(<recfm>, 5), white_spaces(13), all(<dsorg>, 5), white_spaces(),|  word(<name>), cut_white_spaces(<volume>), cut_white_spaces(<unit>),|  cut_white_spaces(<recfm>), cut_white_spaces(<dsorg>);||# skip first line \"Volume Unit Referred ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"Volume\"), word(),|  skip_white_spaces(), if (next_word eq \"Unit\"), word(), skip_white_spaces(),|  if (next_word eq \"Referred\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\18\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,dsorg,23,\\0,23,\\0,7,\\0,1,0,0"
+"3"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"4"="1,volume,17,\\0,17,\\0,7,\\0,1,0,0"
+"5"="1,unit,18,\\0,18,\\0,7,\\0,1,0,0"
+"6"="1,extents,19,\\0,19,\\0,10,\\0,0,0,0"
+"7"="1,used,20,\\0,20,\\0,10,\\0,0,0,0"
+"8"="1,recfm,21,\\0,21,\\0,7,\\0,1,0,0"
+"9"="1,lrecl,14,\\0,14,\\0,10,\\0,0,0,0"
+"10"="1,blksz,22,\\0,22,\\0,10,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\19]
+"Name"="MVS PO 1"
+"Autodetect Condition"="syst_contains(\" MVS \")"
+"Rules For Parsing"="# members|* word(<name>), white_spaces(), word(<vvmm>), white_spaces(), year(<created>),|  all(1), month(<created>), all(1), day(<created>), white_spaces(),|  year(<ch_date>), all(1), month(<ch_date>), all(1), day(<ch_date>),|  white_spaces(), time(<ch_time>), white_spaces(), number(<size>),|  white_spaces(), number(<init>), white_spaces(), number(<mod>),|  white_spaces(), word(<id>), skip_white_spaces();||# members without any other info|* word(<name>), skip_white_spaces();||# skip first line \"Name VV.MM Created ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"Name\"), word(),|  skip_white_spaces(), if (next_word eq \"VV.MM\"), word(), skip_white_spaces(),|  if (next_word eq \"Created\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\19\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,size,15,\\0,15,\\0,10,\\0,0,0,0"
+"3"="1,vvmm,24,\\0,24,\\0,7,\\0,1,0,0"
+"4"="1,created,25,\\0,25,\\0,8,\\0,0,0,0"
+"5"="1,ch_date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,ch_time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,init,26,\\0,26,\\0,10,\\0,0,0,0"
+"8"="1,mod,27,\\0,27,\\0,10,\\0,0,0,0"
+"9"="1,id,28,\\0,28,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\2]
+"Name"="UNIX2"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), month_3(<date>),|  white_spaces(), day(<date>), white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"),|  unix_link(<is_dir>, <name>, <link>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), month_3(<date>), white_spaces(),|  day(<date>), white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip first line \"total ????\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\2\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,link,12,\\0,12,\\0,7,\\0,1,0,0"
+"9"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"10"="1,group,8,\\0,8,\\0,7,\\0,1,0,0"
+"11"="0,device,9,\\0,9,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\20]
+"Name"="MVS PO 2"
+"Autodetect Condition"="syst_contains(\" MVS \")"
+"Rules For Parsing"="# members|* word(<name>), white_spaces(), word(<vvmm>), white_spaces(),|  month(<created>), all(1), day(<created>), all(1), year(<created>),|  white_spaces(), month(<ch_date>), all(1), day(<ch_date>), all(1),|  year(<ch_date>), white_spaces(), time(<ch_time>), white_spaces(),|  number(<size>), white_spaces(), number(<init>), white_spaces(),|  number(<mod>), white_spaces(), word(<id>), skip_white_spaces();||# members without any other info|* word(<name>), skip_white_spaces();||# skip first line \"Name VV.MM Created ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"Name\"), word(),|  skip_white_spaces(), if (next_word eq \"VV.MM\"), word(), skip_white_spaces(),|  if (next_word eq \"Created\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\20\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,size,15,\\0,15,\\0,10,\\0,0,0,0"
+"3"="1,vvmm,24,\\0,24,\\0,7,\\0,1,0,0"
+"4"="1,created,25,\\0,25,\\0,8,\\0,0,0,0"
+"5"="1,ch_date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,ch_time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,init,26,\\0,26,\\0,10,\\0,0,0,0"
+"8"="1,mod,27,\\0,27,\\0,10,\\0,0,0,0"
+"9"="1,id,28,\\0,28,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\21]
+"Name"="MVS PO 3"
+"Autodetect Condition"="syst_contains(\" MVS \")"
+"Rules For Parsing"="# members|* word(<name>), white_spaces(), word(<vvmm>), white_spaces(),|  year(<ch_date>), all(1), month(<ch_date>), all(1), day(<ch_date>),|  white_spaces(), time(<ch_time>), white_spaces(), number(<size>),|  white_spaces(), number(<init>), white_spaces(), number(<mod>),|  white_spaces(), word(<id>), skip_white_spaces();||# members without any other info|* word(<name>), skip_white_spaces();||# skip first line \"NAME VV.MM CHANGED ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"NAME\"), word(),|  skip_white_spaces(), if (next_word eq \"VV.MM\"), word(), skip_white_spaces(),|  if (next_word eq \"CHANGED\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\21\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,size,15,\\0,15,\\0,10,\\0,0,0,0"
+"3"="1,vvmm,24,\\0,24,\\0,7,\\0,1,0,0"
+"4"="1,ch_date,3,\\0,3,\\0,8,\\0,0,0,0"
+"5"="1,ch_time,4,\\0,4,\\0,9,\\0,0,0,0"
+"6"="1,init,26,\\0,26,\\0,10,\\0,0,0,0"
+"7"="1,mod,27,\\0,27,\\0,10,\\0,0,0,0"
+"8"="1,id,28,\\0,28,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\22]
+"Name"="MVS PO 4"
+"Autodetect Condition"="syst_contains(\" MVS \")"
+"Rules For Parsing"="#datasets|* word(<name>), white_spaces(), word(<size>), white_spaces(), word(<ttr>),|  white_spaces(1), all(<alias>, 8), white_spaces(1), all(<ac>, 2), white_spaces(1),|  all(<attr>, 30), cut_white_spaces_end(<alias>), cut_white_spaces_end(<ac>),|  cut_white_spaces_end(<attr>), white_spaces(), word(<amode>), white_spaces(),|  word(<rmode>), skip_white_spaces();||# skip first line \"Name Size TTR ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"Name\"), word(),|  skip_white_spaces(), if (next_word eq \"Size\"), word(), skip_white_spaces(),|  if (next_word eq \"TTR\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\22\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,size,15,\\0,15,\\0,7,\\0,1,0,0"
+"3"="1,ttr,29,\\0,29,\\0,7,\\0,1,0,0"
+"4"="1,alias,30,\\0,30,\\0,7,\\0,1,0,0"
+"5"="1,ac,31,\\0,31,\\0,7,\\0,1,0,0"
+"6"="1,attr,32,\\0,32,\\0,7,\\0,1,0,0"
+"7"="1,amode,33,\\0,33,\\0,7,\\0,1,0,0"
+"8"="1,rmode,34,\\0,34,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\23]
+"Name"="Microsoft IIS"
+"Autodetect Condition"=""
+"Rules For Parsing"="# parse lines with files|* month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), white_spaces(), positive_number(<size>), white_spaces(),|  rest_of_line(<name>);||# parse lines with directories|* month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), white_spaces(), if(next_word eq \"<dir>\"), all(5),|  assign(<is_dir>, true), white_spaces(), rest_of_line(<name>);||# skip lines with files without name|* month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), white_spaces(), positive_number(<size>), white_spaces();||# skip lines with directories without name|* month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), white_spaces(), if(next_word eq \"<dir>\"), all(5),|  assign(<is_dir>, true), white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\23\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,5,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\24]
+"Name"="OS/2"
+"Autodetect Condition"=""
+"Rules For Parsing"="# parse lines with files and directories|* skip_white_spaces(), positive_number(<size>), white_spaces(1), all(<attrs>, 9),|  cut_white_spaces(<attrs>), white_spaces(1),|  assign(<is_dir>, next_word eq \"DIR\"), all(3), white_spaces(),|  month(<date>), all(1), day(<date>), all(1), year(<date>),|  white_spaces(), time(<time>), white_spaces(), rest_of_line(<name>);||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\24\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,attrs,32,\\0,32,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\25]
+"Name"="VxWorks"
+"Autodetect Condition"="welcome_contains(\" VxWorks \")"
+"Rules For Parsing"="# parse lines with directories|* skip_white_spaces(), positive_number(<size>), white_spaces(), month_3(<date>),|  all(1), day(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  white_spaces(), all_up_to(<name>, \"<\"), cut_white_spaces_end(<name>),|  if(next_word eq \"DIR>\"), all(4), assign(<is_dir>, true), skip_white_spaces();||# parse lines with files|* skip_white_spaces(), positive_number(<size>), white_spaces(), month_3(<date>),|  all(1), day(<date>), all(1), year(<date>), white_spaces(), time(<time>),|  white_spaces(), rest_of_line(<name>), cut_white_spaces_end(<name>),|  if(\"<\" not_in <name>);||# skip first line \"size date time ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"size\"), word(),|  skip_white_spaces(), if (next_word eq \"date\"), word(), skip_white_spaces(),|  if (next_word eq \"time\"), rest_of_line();||# skip second line \"--------  ------ ...\"|* if(\"----\" in next_word), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\25\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\26]
+"Name"="Tandem"
+"Autodetect Condition"=""
+"Rules For Parsing"="# parse lines with files|* word(<name>), white_spaces(), number(<code>), white_spaces(), positive_number(<size>),|  white_spaces(), day(<date>), all(1), month_3(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), white_spaces(), all_up_to(<user>, \"\\\\\"\"), cut_white_spaces_end(<user>),|  all_up_to(<RWEP>, \"\\\\\"\");||# skip first line \"File Code EOF ...\"|* if(first_nonempty_line), skip_white_spaces(), if (next_word eq \"file\"), word(),|  skip_white_spaces(), if (next_word eq \"code\"), word(), skip_white_spaces(),|  if (next_word eq \"eof\"), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\26\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,code,35,\\0,35,\\0,10,\\0,0,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"5"="1,time,4,\\0,4,\\0,5,\\0,1,0,0"
+"6"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"7"="1,RWEP,36,\\0,36,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\27]
+"Name"="IBM iSeries/i5, AS/400 (EN)"
+"Autodetect Condition"="syst_contains(\" OS/400 \")"
+"Rules For Parsing"="# parse lines with files|* word(<user>), skip_white_spaces(), positive_number(<size>), skip_white_spaces(),|  month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line not_end_with \"/\"), rest_of_line(<name>);||# parse lines with files without size+date+time|* word(<user>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line not_end_with \"/\"), if(\" \" not_in rest_of_line),|  rest_of_line(<name>);||# parse lines with files without user+type+size+date+time|* white_spaces(40), skip_white_spaces(), if(rest_of_line not_end_with \"/\"),|  rest_of_line(<name>);||# parse lines with directories|* word(<user>), skip_white_spaces(), positive_number(<size>), skip_white_spaces(),|  month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line end_with \"/\"), assign(<is_dir>, true), rest_of_line(<name>),|  cut_end_of_string(<name>, 1);||# parse lines with directories without user|* skip_white_spaces(), positive_number(<size>), skip_white_spaces(),|  month(<date>), all(1), day(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line end_with \"/\"), assign(<is_dir>, true), rest_of_line(<name>),|  cut_end_of_string(<name>, 1);||# parse lines with directories without user+type+size+date+time|* white_spaces(40), skip_white_spaces(), if(rest_of_line end_with \"/\"),|  assign(<is_dir>, true), rest_of_line(<name>), cut_end_of_string(<name>, 1);||# parse lines with file without name (only on the first row)|* if(first_nonempty_line), word(), skip_white_spaces(), positive_number(<size>),|  skip_white_spaces(), month(<date>), all(1), day(<date>), all(1), year(<date>),|  white_spaces(), time(<time>), skip_white_spaces(), if(next_word eq \"*FILE\"),|  word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\27\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,10,\\0,0,0,0"
+"4"="0,win_type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,type,5,\\0,5,\\0,7,\\0,1,0,0"
+"8"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\28]
+"Name"="IBM iSeries/i5, AS/400 (CZ)"
+"Autodetect Condition"="syst_contains(\" OS/400 \")"
+"Rules For Parsing"="# parse lines with files|* word(<user>), skip_white_spaces(), positive_number(<size>), skip_white_spaces(),|  day(<date>), all(1), month(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line not_end_with \"/\"), rest_of_line(<name>);||# parse lines with files without size+date+time|* word(<user>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line not_end_with \"/\"), if(\" \" not_in rest_of_line),|  rest_of_line(<name>);||# parse lines with files without user+type+size+date+time|* white_spaces(40), skip_white_spaces(), if(rest_of_line not_end_with \"/\"),|  rest_of_line(<name>);||# parse lines with directories|* word(<user>), skip_white_spaces(), positive_number(<size>), skip_white_spaces(),|  day(<date>), all(1), month(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line end_with \"/\"), assign(<is_dir>, true), rest_of_line(<name>),|  cut_end_of_string(<name>, 1);||# parse lines with directories without user|* skip_white_spaces(), positive_number(<size>), skip_white_spaces(),|  day(<date>), all(1), month(<date>), all(1), year(<date>), white_spaces(),|  time(<time>), skip_white_spaces(), word(<type>), skip_white_spaces(),|  if(rest_of_line end_with \"/\"), assign(<is_dir>, true), rest_of_line(<name>),|  cut_end_of_string(<name>, 1);||# parse lines with directories without user+type+size+date+time|* white_spaces(40), skip_white_spaces(), if(rest_of_line end_with \"/\"),|  assign(<is_dir>, true), rest_of_line(<name>), cut_end_of_string(<name>, 1);||# parse lines with file without name (only on the first row)|* if(first_nonempty_line), word(), skip_white_spaces(), positive_number(<size>),|  skip_white_spaces(), day(<date>), all(1), month(<date>), all(1), year(<date>),|  white_spaces(), time(<time>), skip_white_spaces(), if(next_word eq \"*FILE\"),|  word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\28\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,10,\\0,0,0,0"
+"4"="0,win_type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,type,5,\\0,5,\\0,7,\\0,1,0,0"
+"8"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\3]
+"Name"="UNIX3"
+"Autodetect Condition"="(not welcome_contains(\" NW \") or not welcome_contains(\" HellSoft.\")) and not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  positive_number(<size>), white_spaces(), month_3(<date>), white_spaces(),|  day(<date>), white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(), white_spaces(),|  month_3(<date>), white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), unix_device(<device>), white_spaces(), month_3(<date>),|  white_spaces(), day(<date>), white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>),|  white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links (skipping user with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), month_3(<date>),|  white_spaces(), day(<date>), white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"),|  unix_link(<is_dir>, <name>, <link>);||# parse lines with devices (skipping user with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), month_3(<date>), white_spaces(),|  day(<date>), white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip first line \"total ????\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\3\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,link,12,\\0,12,\\0,7,\\0,1,0,0"
+"9"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"10"="0,device,9,\\0,9,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\4]
+"Name"="UNIX4"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  day(<date>), all(1), skip_white_spaces(), month_txt(<date>), all(1),|  skip_white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(), day(<date>), all(1), skip_white_spaces(),|  month_txt(<date>), all(1), skip_white_spaces(), year_or_time(<date>, <time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"),|  unix_link(<is_dir>, <name>, <link>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(), day(<date>), all(1), skip_white_spaces(), month_txt(<date>),|  all(1), skip_white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), day(<date>), all(1), skip_white_spaces(), month_txt(<date>),|  all(1), skip_white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), day(<date>), all(1),|  skip_white_spaces(), month_txt(<date>), all(1), skip_white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), day(<date>), all(1),|  skip_white_spaces(), month_txt(<date>), all(1), skip_white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip first line \"total ????\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\4\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,link,12,\\0,12,\\0,7,\\0,1,0,0"
+"9"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"10"="1,group,8,\\0,8,\\0,7,\\0,1,0,0"
+"11"="0,device,9,\\0,9,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\5]
+"Name"="UNIX5"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(),|  day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(),|  day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(), day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(), day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(), day(<date>), white_spaces(), month_3(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), day(<date>), white_spaces(),|  month_3(<date>), white_spaces(), year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(), day(<date>), white_spaces(),|  month_3(<date>), white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), day(<date>), white_spaces(),|  month_3(<date>), white_spaces(), year(<date>), white_spaces(2),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(), day(<date>), white_spaces(),|  month_3(<date>), white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip first line \"total ????\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\5\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,link,12,\\0,12,\\0,7,\\0,1,0,0"
+"9"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"10"="1,group,8,\\0,8,\\0,7,\\0,1,0,0"
+"11"="0,device,9,\\0,9,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\6]
+"Name"="Xbox 360"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(),|  year(<date>), all(1), month(<date>), all(1), day(<date>), all(1), time(<time>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\6\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,5,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"9"="1,group,8,\\0,8,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\7]
+"Name"="UNIX6"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines with files and directories|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), white_spaces(), word(<user>), white_spaces(),|  word(<group>), white_spaces(), positive_number(<size>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), white_spaces(), word(<user>), white_spaces(), word(<group>),|  white_spaces(), word(), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices|* word(<rights>), white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), word(<group>), white_spaces(), unix_device(<device>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with files and directories (skipping user+group with more spaces)|* if(next_char\\!=\"l\"), assign(<is_dir>, next_char==\"d\"), word(<rights>),|  white_spaces(), word(), skip_to_number(), positive_number(<size>),|  white_spaces(1), assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# parse lines with links (skipping user+group with more spaces)|* if(next_char==\"l\"), assign(<is_link>, true), word(<rights>), white_spaces(),|  word(), skip_to_number(), word(), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), unix_link(<is_dir>, <name>, <link>);||# parse lines with devices (skipping user+group with more spaces)|* word(<rights>), white_spaces(), word(), skip_to_number(),|  unix_device(<device>), white_spaces(1),|  assign(<is_hidden>, next_char==\".\"), rest_of_line(<name>);||# skip first line \"total ????\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\7\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"6"="1,link,12,\\0,12,\\0,7,\\0,1,0,0"
+"7"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+"8"="1,group,8,\\0,8,\\0,7,\\0,1,0,0"
+"9"="0,device,9,\\0,9,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\8]
+"Name"="Netware"
+"Autodetect Condition"="not syst_contains(\"z/VM \") and not syst_contains(\"OS/2 \") and not syst_contains(\" MACOS \") and not syst_contains(\"Windows_NT\")"
+"Rules For Parsing"="# parse lines from NETWARE FTP server|* assign(<is_dir>, next_char==\"d\"), all(1), white_spaces(1), all_to(\"[\"),|  all_up_to(<rights>, \"]\"), white_spaces(1), all(<user>, 28),|  cut_white_spaces_end(<user>), white_spaces(), positive_number(<size>),|  white_spaces(), month_3(<date>), white_spaces(), day(<date>),|  white_spaces(), year_or_time(<date>, <time>), white_spaces(1),|  rest_of_line(<name>);||# parse lines from Hellsoft FTP server|* assign(<is_dir>, next_char==\"d\"), all_to(\"[\"), all_up_to(<rights>, \"]\"),|  white_spaces(), word(), white_spaces(), word(<user>),|  white_spaces(), positive_number(<size>), white_spaces(), month_3(<date>),|  white_spaces(), day(<date>), white_spaces(),|  year_or_time(<date>, <time>), white_spaces(1), rest_of_line(<name>);||# skip first line e.g. \"total ???\" or \"--- listing ---\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\8\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,size,2,\\0,2,\\0,3,\\0,1,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,4,\\0,1,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\9]
+"Name"="VMS1"
+"Autodetect Condition"="syst_contains(\" VMS \")"
+"Rules For Parsing"="# parse lines with directories|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), number(<blksize>),|  white_spaces(), day(<date>), all(1), month_3(<date>), all(1),|  year(<date>), white_spaces(), time(<time>), all_to(\"[\"),|  all_up_to(<user>, \"]\"), all_to(\"(\"), all_up_to(<rights>, \")\");||# parse lines with directories with corrupted user string|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), number(<blksize>),|  white_spaces(), day(<date>), all(1), month_3(<date>), all(1),|  year(<date>), white_spaces(), time(<time>), all_to(\"[\"),|  all_up_to(<user>, \"(\"), cut_white_spaces_end(<user>),|  all_up_to(<rights>, \")\");||# parse lines with files|* word(<name>), white_spaces_and_line_ends(), number(<blksize>),|  white_spaces(), day(<date>), all(1), month_3(<date>),|  all(1), year(<date>), white_spaces(), time(<time>), all_to(\"[\"),|  all_up_to(<user>, \"]\"), all_to(\"(\"), all_up_to(<rights>, \")\");||# parse lines with files with corrupted user string|* word(<name>), white_spaces_and_line_ends(), number(<blksize>),|  white_spaces(), day(<date>), all(1), month_3(<date>),|  all(1), year(<date>), white_spaces(), time(<time>), all_to(\"[\"),|  all_up_to(<user>, \"(\"), cut_white_spaces_end(<user>),|  all_up_to(<rights>, \")\");||# skip first line e.g. \"Directory ???:[???]\" - up to 3 words|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces();|* if(first_nonempty_line), skip_white_spaces(), word(), skip_white_spaces(),|  word(), skip_white_spaces(), word(), skip_white_spaces();||# skip last line e.g. \"Total of ??? files, ??? blocks.\"|* if(last_nonempty_line), if(first_nonempty_line == false), rest_of_line();||# skip last line containing \"Total of ???\"|* if(last_nonempty_line), skip_white_spaces(), if(next_word eq \"Total\"),|  word(), skip_white_spaces(), if(next_word eq \"of\"), rest_of_line();||# parse lines with inaccessible directories (based on char \"%\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), if(next_char==\"%\"), rest_of_line(<rights>);||# parse lines with inaccessible directories (based on word \"privilege\")|* all_up_to(<name>, \".DIR;1\"), assign(<is_dir>, true),|  white_spaces_and_line_ends(), all_to(<rights>, \"privilege\"),|  add_string_to_column(<rights>, rest_of_line), rest_of_line();||# parse lines with inaccessible files (based on char \"%\")|* word(<name>), white_spaces_and_line_ends(), if(next_char==\"%\"),|  rest_of_line(<rights>);||# parse lines with inaccessible files (based on word \"privilege\")|* word(<name>), white_spaces_and_line_ends(), all_to(<rights>, \"privilege\"),|  add_string_to_column(<rights>, rest_of_line), rest_of_line();||# skip empty lines anywhere|* skip_white_spaces();|"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\FTP\Server Types\9\Columns]
+"1"="1,name,0,\\0,0,\\0,1,\\0,1,0,0"
+"2"="1,ext,1,\\0,1,\\0,2,\\0,1,0,0"
+"3"="1,blksize,10,\\0,10,\\0,10,\\0,0,0,0"
+"4"="0,type,5,\\0,5,\\0,6,\\0,1,0,0"
+"5"="1,date,3,\\0,3,\\0,8,\\0,0,0,0"
+"6"="1,time,4,\\0,4,\\0,9,\\0,0,0,0"
+"7"="1,rights,6,\\0,6,\\0,7,\\0,1,0,0"
+"8"="1,user,7,\\0,7,\\0,7,\\0,1,0,0"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\IEVIEWER]
+"Version"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\MMVIEWER]
+"Version"=dword:00000001
+"LogFont"=hex:f3,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,00,4d,53,20,53,68,65,6c,6c,20,44,6c,67,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SavePosition"=dword:00000000
+"WindowPlacement"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\nethood]
+"Version"=dword:00000001
+"ShowSystemShares"=dword:00000000
+"ShowShortcuts"=dword:00000000
+"ShowServers"=dword:00000001
+"Preload"=dword:00000000
+"ShowRDSVolumes"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PEVIEWER]
+"Version"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PEVIEWER\Dumpers]
+"FileType"=dword:00000001
+"Version"=dword:00000002
+"FileHeader"=dword:00000003
+"OptionalFileHeader"=dword:00000004
+"ExportTable"=dword:00000005
+"ImportTable"=dword:00000006
+"SectionTable"=dword:00000007
+"LoadConfig"=dword:00000008
+"DebugDirectory"=dword:00000009
+"Manifest"=dword:0000000a
+"CorHeader"=dword:0000000b
+"CorMetadata"=dword:0000000c
+"ResourceDirectory"=dword:0000000d
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PictView]
+"Version"=dword:00000016
+"ShrinkToFit"=dword:00000001
+"PageUpDnScrolls"=dword:00000001
+"AutoRotate"=dword:00000001
+"PipetteInHex"=dword:00000000
+"WinPos"=dword:00000000
+"IgnoreThumbnails"=dword:00000000
+"MaxThumbImgSize"=dword:0000005a
+"ToolbarVisible"=dword:00000001
+"StatusbarVisible"=dword:00000001
+"ShowPathInTitle"=dword:00000001
+"DontShowAnymore"=dword:00000000
+"RendererWSColor"=dword:01ababab
+"RendererBGColor"=dword:01ffffff
+"FullScreenWSColor"=dword:01000000
+"FullScreenBGColor"=dword:01ffffff
+"SelectRatioX"=dword:00000001
+"SelectRatioY"=dword:00000001
+"ExifDlgWidth"=dword:00000000
+"ExifDlgHeight"=dword:00000000
+"ExifGroupHighlights"=dword:00000000
+"ExifHighlights"=""
+"Histogram Configuration"=hex:01,00,00,00,ff,ff,ff,ff,ff,ff,ff,ff,77,00,00,00,\
+  00,01,00,00,04,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PictView\CopyTo]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PictView\DirsHistory]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PictView\FilesHistory]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\PictView\Save]
+"Flags"=dword:00000400
+"JPEG Quality"=dword:0000004b
+"JPEG Subsampling"=dword:00000001
+"TIFF Strip Size"=dword:00000040
+"InitDir"=""
+"RememberPath"=dword:00000000
+"FilterMono"=dword:0000000e
+"FilterColor"=dword:0000000d
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\RegEdit]
+"Recent Path"=hex:5c,00,00,00
+"Window Width"=dword:ffffffff
+"Window Height"=dword:ffffffff
+"Maximized"=dword:00000000
+"Command"=""
+"Arguments"="\"$(Name)\""
+"InitDir"="$(FullPath)"
+"Last Export Directory"=""
+"TypeDateColFW"=dword:00000000
+"TypeDateColW"=dword:00000000
+"DataTimeColFW"=dword:00000000
+"DataTimeColW"=dword:00000000
+"SizeColFW"=dword:00000000
+"SizeColW"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Renamer]
+"Custom Font"=dword:00000000
+"Window Width"=dword:ffffffff
+"Window Height"=dword:ffffffff
+"Maximized"=dword:00000000
+"Command"="notepad"
+"Arguments"="\"$(Name)\""
+"InitDir"="$(FullPath)"
+"Confirm ESC Close"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\Renamer\Last Used Options]
+"NewName"="$(OriginalName)"
+"SearchFor"=""
+"ReplaceWith"=""
+"CaseSensitive"=dword:00000001
+"WholeWords"=dword:00000000
+"Global"=dword:00000000
+"RegExp"=dword:00000000
+"ExcludeExt"=dword:00000000
+"FileCase"=dword:00000000
+"ExtCase"=dword:00000000
+"IncludePath"=dword:00000000
+"Spec"=dword:00000000
+"Last Last Mask"="*.*"
+"Last Subdirs"=dword:00000000
+"Last Remove Source Path"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\SplitCombine]
+"Include Original Extension"=dword:00000001
+"Create Batch File"=dword:00000001
+"Split To Other Panel"=dword:00000000
+"Combine To Other Panel"=dword:00000000
+"Split To Subdirectory"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\TAR]
+"Version"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\UnARJ]
+"Options"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\UnCAB]
+"Options"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\UNDELETE]
+"Always Reuse Scan Info"=dword:00000000
+"Scan Vacant Clusters"=dword:00000001
+"Show Existing Files"=dword:00000000
+"Show Zero Files"=dword:00000001
+"Show Empty Dirs"=dword:00000001
+"Show Metafiles"=dword:00000000
+"Estimate Damage"=dword:00000001
+"Alternate Temp Path"=""
+"Dont Show Encrypted Warning"=dword:00000000
+"Dont Show Same Partition Warning"=dword:00000000
+"Condition Fixed Width"=dword:00000000
+"Condition Width"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\UnISO]
+"Version"=dword:00000006
+"Clear Read Only"=dword:00000001
+"Show Session As Directory"=dword:00000001
+"Show Boot Image As File"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\UnMIME]
+"Version"=dword:00000003
+"List Mail Headers"=dword:00000000
+"List Message Bodies"=dword:00000001
+"Append Charset"=dword:00000001
+"List Attachments"=dword:00000001
+"DontShowAnymore"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\UnRAR]
+"Options"=dword:00000000
+"List Info Packed Size"=dword:00000001
+"Column PackedSize FixedWidth"=dword:00000000
+"Column PackedSize Width"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\WMOBILE]
+"Version"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\ZIP]
+"Level"=dword:00000006
+"Encryption Method"=dword:00000000
+"No Empty Dirs"=dword:00000000
+"Backup ZIP"=dword:00000001
+"Show Extended Options"=dword:00000001
+"Time To Newest File"=dword:00000000
+"Volume Size 1"="1423"
+"Volume Size 2"=""
+"Volume Size 3"=""
+"Volume Size 4"=""
+"Volume Size 5"=""
+"Volume Size Units 1"=dword:00000000
+"Volume Size Units 2"=dword:00000000
+"Volume Size Units 3"=dword:00000000
+"Volume Size Units 4"=dword:00000000
+"Volume Size Units 5"=dword:00000000
+"Last Used Auto"=dword:00000001
+"Auto Expand MV"=dword:00000000
+"Version"=dword:00000003
+"Default Sfx File"="english.sfx"
+"Last Export Path"=""
+"Change Language Reaction"=dword:00000000
+"Salamander Version"=dword:00000000
+"Winzip Names"=dword:00000001
+"List Info Packed Size"=dword:00000001
+"Column PackedSize FixedWidth"=dword:00000000
+"Column PackedSize Width"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Configuration\ZIP\Favorities]
+"Number Of Favorities"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\1]
+"DLL"="7zip\\7zip.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\10]
+"DLL"="regedt\\regedt.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\11]
+"DLL"="encrypt\\encrypt.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\12]
+"DLL"="diskmap\\diskmap.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\13]
+"DLL"="pak\\pak.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\14]
+"DLL"="pictview\\pictview.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\15]
+"DLL"="nethood\\nethood.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\16]
+"DLL"="checksum\\checksum.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\17]
+"DLL"="tar\\tar.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\18]
+"DLL"="unarj\\unarj.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\19]
+"DLL"="unchm\\unchm.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\2]
+"DLL"="automation\\automation.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\20]
+"DLL"="unfat\\unfat.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\21]
+"DLL"="uniso\\uniso.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\22]
+"DLL"="unlha\\unlha.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\23]
+"DLL"="unmime\\unmime.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\24]
+"DLL"="unrar\\unrar.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\25]
+"DLL"="ieviewer\\ieviewer.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\26]
+"DLL"="dbviewer\\dbviewer.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\27]
+"DLL"="peviewer\\peviewer.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\28]
+"DLL"="mmviewer\\mmviewer.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\29]
+"DLL"="wmobile\\wmobile.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\3]
+"DLL"="renamer\\renamer.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\30]
+"DLL"="zip\\zip.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\4]
+"DLL"="ftp\\ftp.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\5]
+"DLL"="filecomp\\filecomp.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\6]
+"DLL"="checkver\\checkver.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\7]
+"DLL"="uncab\\uncab.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\8]
+"DLL"="undelete\\undelete.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Plugins Order\9]
+"DLL"="splitcbn\\splitcbn.spl"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Right Panel]
+"Header Line"=dword:00000000
+"Path"="C:\\Users\\Eglobalt_PY\\Desktop\\Accesos a cajeros"
+"View Type"=dword:00000006
+"Sort Type"=dword:00000001
+"Reverse Sort"=dword:00000000
+"Directory Line"=dword:00000000
+"Status Line"=dword:00000000
+"Enable Filter"=dword:00000000
+"Filter"="*.*"
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\User Menu]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Version]
+"Configuration"=dword:00000067
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\0]
+"Name"=""
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\1]
+"Name"="Reservado"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\2]
+"Name"="&Breve"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\3]
+"Name"="&Detallado"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\4]
+"Name"="&Iconos"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\5]
+"Name"="&Miniaturas"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\6]
+"Name"="Ba&ldosas"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\7]
+"Name"="&Tipos"
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\8]
+"Name"=""
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\View Templates\9]
+"Name"=""
+"Flags"=dword:00000000
+"Columns"="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+"Left Smart Mode"=dword:00000001
+"Right Smart Mode"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewer]
+"Forward Direction"=dword:00000001
+"Whole Words"=dword:00000000
+"Case Sensitive"=dword:00000000
+"Regular Expression"=dword:00000000
+"Find Text"=""
+"HEX-mode"=dword:00000000
+"EOL CRLF"=dword:00000001
+"EOL CR"=dword:00000001
+"EOL LF"=dword:00000001
+"EOL NULL"=dword:00000001
+"Tabelator Size"=dword:00000008
+"Default Mode"=dword:00000000
+"Text Masks"="*.txt;*.602;*.xml"
+"Hex Masks"=""
+"Viewer Use Custom Font"=dword:00000000
+"Viewer Font"="Consolas,-16,400,0,0,0,0,0,1"
+"Wrap Text"=dword:00000001
+"Auto-Select"=dword:00000001
+"Default Convert"=""
+"Auto-Copy Selection"=dword:00000000
+"Go to Offset Is Hex"=dword:00000001
+"Save Window Position"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers]
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\1]
+"Masks"="*.md;*.mdown;*.markdown"
+"Type"=dword:fffffffc
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\10]
+"Masks"="*.stw;*.sun;*.tga;*.tif;*.udi;*.web;*.wpg;*.xar;*.zbr;*.zmf;*.bw"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\11]
+"Masks"="*.st;*.cals;*.itiff;*.jfif;*.jpeg;*.macp;*.mpnt;*.paint;*.pict;*.2bp"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\12]
+"Masks"="*.pntg;*.thumb;*.tiff;*.wbmp;*.ani;*.clk;*.mbm;*.thm;*.zno;*.mng"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\13]
+"Masks"="*.psp*;*.dtx;*.dds;*.nef;*.crw;*.eps;*.ept;*.ai;*.raf;*.mov;*.hpi"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\14]
+"Masks"="*.cpl;*.dll;*.drv;*.exe;*.ocx;*.spl;*.sys;*.scr"
+"Type"=dword:fffffff0
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\15]
+"Masks"="*.mp3;*.mp2;*.wav;*.wave;*.wma;*.vqf;*.it;*.s3m;*.stm;*.xm;*.mod;*.mtm;*.669"
+"Type"=dword:fffffff2
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\16]
+"Masks"="*.csv;*.dbf"
+"Type"=dword:fffffff7
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\17]
+"Masks"="*.htm;*.html;*.xml;*.mht"
+"Type"=dword:fffffffc
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\18]
+"Masks"="*.rpm"
+"Type"=dword:fffffffe
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\19]
+"Masks"="*.*"
+"Type"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\2]
+"Masks"="*.bin;*.img;*.iso;*.isz;*.nrg;*.pdi;*.cdi;*.cif;*.ncd;*.c2d;*.mdf"
+"Type"=dword:ffffffe6
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\3]
+"Masks"="*.arw;*.blp;*.cr2;*.dng;*.orf;*.pef"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\4]
+"Masks"="*.82i;*.83i;*.85i;*.86i;*.89i;*.92i;*.awd;*.bmi;*.bmp;*.cal;*.cdr"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\5]
+"Masks"="*.cdt;*.cel;*.clp;*.cit;*.cmx;*.cot;*.cpt;*.cur;*.cut;*.dcx;*.dib"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\6]
+"Masks"="*.flc;*.fli;*.gem;*.gif;*.ham;*.hmr;*.hrz;*.icn;*.ico;*.iff;*.img"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\7]
+"Masks"="*.jff;*.jif;*.jmx;*.jpe;*.jpg;*.lbm;*.mac;*.mil;*.msp;*.ofx;*.pan"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\8]
+"Masks"="*.pat;*.pbm;*.pc2;*.pcd;*.pct;*.pcx;*.pgm;*.pic;*.png;*.pnm;*.ppm"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Viewers\9]
+"Masks"="*.psd;*.pyx;*.qfx;*.ras;*.rgb;*.rle;*.sam;*.scx;*.sep;*.sgi;*.ska"
+"Type"=dword:ffffffef
+
+[HKEY_CURRENT_USER\Software\Altap\Altap Salamander 4.0\Window]
+"Left"=dword:fffffc83
+"Right"=dword:fffffe50
+"Top"=dword:00000020
+"Bottom"=dword:000002bd
+"Show"=dword:00000001
+"Split Position"="0.0"
+"Before Zoom Split Position"="50.0"
