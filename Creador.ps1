@@ -1,11 +1,11 @@
-Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+Write-Host "Creador de accesos de Anydesk "
 Write-Host
 Write-Host "Cargando ..."
 Start-Sleep -Seconds 2
 cls
-Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+Write-Host "Creador de accesos de Anydesk de terminales "
 Write-Host
-Write-Host "Menú"
+Write-Host "MenÃº"
 Write-Host
 Write-Host "0- Crear Carpeta"
 Write-Host "1- Crear un acceso"
@@ -13,7 +13,7 @@ Write-Host "2- Crear accesos por lotes"
 Write-Host
 $opcion = read-host "Ingrese una opcion"
 cls
-Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+Write-Host "Creador de accesos de Anydesk de terminales "
 cls
 
 if(0 -eq $opcion){
@@ -22,19 +22,19 @@ if(0 -eq $opcion){
     New-Item "C:\Users\$env:USERNAME\Desktop\Accesos a cajeros" -Type Directory
     Write-Host "Carpeta Accesos a cajeros creada en el escritorio"
     Write-Host
-    Write-Host "Volviendo al menú ..."
+    Write-Host "Volviendo al menÃº ..."
     Start-Sleep -Seconds 4
     cls
     Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
     Write-Host
-    Write-Host "Menú"
+    Write-Host "MenÃº"
     Write-Host
     Write-Host "1- Crear un acceso"
     Write-Host "2- Crear accesos por lotes"
     Write-Host
     $opcion = read-host "Ingrese una opcion"
     cls
-    Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+    Write-Host "Creador de accesos de Anydesk de terminales"
     }
 
 
@@ -65,7 +65,7 @@ if (1 -eq $opcion){
         }
 
 if(2 -eq $opcion){
-        Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+        Write-Host "Creador de accesos de Anydesk de terminales "
         Write-Host
         Write-Host "Los datos deben ingresar separadas por comas"
         Write-Host
@@ -80,7 +80,7 @@ if(2 -eq $opcion){
         $prefijo = "C:\Users\$env:USERNAME\Desktop\Accesos a cajeros\"
         $sufijo= ".lnk"
         cls
-        Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+        Write-Host "Creador de accesos de Anydesk de terminales "
         Write-Host
         Write-Output "Creando accesos de terminales"
 
