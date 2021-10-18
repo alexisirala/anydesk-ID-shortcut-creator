@@ -7,7 +7,7 @@ Write-Host "Creador de accesos de Anydesk de terminales "
 Write-Host
 Write-Host "Menú"
 Write-Host
-Write-Host "0- Crear Carpeta"
+Write-Host "0- Crear Carpeta contenedora"
 Write-Host "1- Crear un acceso"
 Write-Host "2- Crear accesos por lotes"
 Write-Host
@@ -20,12 +20,12 @@ if(0 -eq $opcion){
     
     Write-Host "Carpeta de accesos creada en el escritorio"
     New-Item "C:\Users\$env:USERNAME\Desktop\Accesos a cajeros" -Type Directory
-    Write-Host "Carpeta Accesos a cajeros creada en el escritorio"
+    Write-Host "Carpeta Accesos a terminales creada en el escritorio"
     Write-Host
     Write-Host "Volviendo al menú ..."
     Start-Sleep -Seconds 4
     cls
-    Write-Host "Creador de accesos de Anydesk de terminales inteligentes "
+    Write-Host "Creador de accesos de Anydesk de terminales "
     Write-Host
     Write-Host "Menú"
     Write-Host
@@ -67,7 +67,7 @@ if (1 -eq $opcion){
 if(2 -eq $opcion){
         Write-Host "Creador de accesos de Anydesk de terminales "
         Write-Host
-        Write-Host "Los datos deben ingresar separadas por comas"
+        Write-Host "Los datos se deben ingresar separadas por comas"
         Write-Host
         $entrada = Read-Host "Ingrese la cadena de Nombres"
         $entrada=","+$entrada
