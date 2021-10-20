@@ -5,4 +5,4 @@
   -3 Permite crear accesos por lotes pasandole una cadena con los datos.<br>
   
 Para visualizar los accesos directos utilizo Altap Salamander 4.0 https://www.altap.cz/<br>
-![imagen](/https://www.altap.cz/images/salamander/screenshots/small/find-files-directories-advanced-options.png)
+
