@@ -19,7 +19,7 @@ cls
 if(0 -eq $opcion){
     
     Write-Host "Carpeta de accesos creada en el escritorio"
-    New-Item "C:\Users\$env:USERNAME\Desktop\Accesos a cajeros" -Type Directory
+    New-Item "C:\Users\$env:USERNAME\Desktop\Accesos_terminales" -Type Directory
     Write-Host "Carpeta Accesos a terminales creada en el escritorio"
     Write-Host
     Write-Host "Volviendo al menú ..."
@@ -41,7 +41,7 @@ if(0 -eq $opcion){
 if (1 -eq $opcion){
         Write-Host
         $DestinationPath = read-host "Ingrese el nombre de la terminal "
-        $prefijo = "C:\Users\$env:USERNAME\Desktop\Accesos a cajeros\"
+        $prefijo = "C:\Users\$env:USERNAME\Desktop\Accesos_terminales\"
         $sufijo = ".lnk"
         $DestinationPath = $prefijo + $DestinationPath + $sufijo
         Write-Host
@@ -77,7 +77,7 @@ if(2 -eq $opcion){
         $direccion=","+$direccion
         $direccion = $direccion.split(",")
 
-        $prefijo = "C:\Users\$env:USERNAME\Desktop\Accesos a cajeros\"
+        $prefijo = "C:\Users\$env:USERNAME\Desktop\Accesos_terminales\"
         $sufijo= ".lnk"
         cls
         Write-Host "Creador de accesos de Anydesk de terminales "
